@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/stars/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Stars" alt="Stars">
     <img src="https://img.shields.io/github/last-commit/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Last%20Update" alt="Last Commit">
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
-    <img src="https://img.shields.io/badge/projects-60%2B-blue?style=flat-square" alt="Projects">
+    <img src="https://img.shields.io/badge/projects-55%2B-blue?style=flat-square" alt="Projects">
     <img src="https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square" alt="License">
   </p>
   <p>
@@ -46,8 +46,8 @@ Yet many of these projects remain invisible to international developers because 
 - [AI Applications & Chatbots](#-ai-applications--chatbots) *(3)*
 
 **Systems & Frameworks**
-- [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(12)*
-- [Developer Tools & Libraries](#-developer-tools--libraries) *(10)*
+- [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(11)*
+- [Developer Tools & Libraries](#-developer-tools--libraries) *(9)*
 - [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(4)*
 
 **Platforms**
@@ -82,7 +82,7 @@ _Large language models, NLP toolkits, OCR engines, and training frameworks from 
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Production-ready multilingual OCR toolkit supporting 80+ languages with lightweight deployment and document structure analysis. `Baidu` `Python` `EN` ![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=flat-square)
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - The most comprehensive Chinese NLP resource collection: sentiment lexicons, named entity recognition, text generation, knowledge graphs, and 50+ datasets. `Python` ![Stars](https://img.shields.io/github/stars/fighting41love/funNLP?style=flat-square)
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - Tsinghua University's open bilingual (Chinese-English) chat model. Runs on consumer GPUs with INT4 quantization (6GB VRAM). `Tsinghua` `Python` ![Stars](https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=flat-square)
-- [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - Alibaba's Qwen large language model series — strong multilingual performance, code generation, and math reasoning. `Alibaba` `Python` `EN` ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen?style=flat-square)
+- [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Alibaba's Qwen large language model series (now hosting Qwen3) — strong multilingual performance, code generation, and math reasoning, with 1M-token context support. `Alibaba` `Python` `EN` ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen2.5?style=flat-square)
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - DeepSeek's flagship open-source model — Mixture-of-Experts architecture achieving top-tier performance at a fraction of the training cost. `DeepSeek` `Python` `EN` ![Stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=flat-square)
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster, and more accessible — distributed training framework supporting parallelism strategies. `Python` `EN` ![Stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=flat-square)
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - Chinese LLaMA & Alpaca large language models with expanded Chinese vocabulary and instruction tuning. `Python` ![Stars](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca?style=flat-square)
@@ -111,7 +111,6 @@ _Related: [Backend Frameworks & Middleware](#-backend-frameworks--middleware), [
 - [macrozheng/mall](https://github.com/macrozheng/mall) - Complete e-commerce system with storefront + admin panel. Includes product search, cart, orders, payments, and member management. `Java` `Vue` ![Stars](https://img.shields.io/github/stars/macrozheng/mall?style=flat-square)
 - [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - Enterprise-grade AI low-code platform — generate full front+back end code with one click. Supports RBAC, workflow, multi-tenancy. `Java` `Vue` ![Stars](https://img.shields.io/github/stars/jeecgboot/JeecgBoot?style=flat-square)
 - [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - Feature-rich admin system: RBAC permissions, data permissions, SaaS multi-tenancy, Flowable workflow, payment, CRM, ERP, and AI integration. `Java` `Vue` ![Stars](https://img.shields.io/github/stars/YunaiV/ruoyi-vue-pro?style=flat-square)
-- [lenve/vhr](https://github.com/lenve/vhr) - Human resources management system with department management, salary tracking, and employee lifecycle. Clean Spring Boot + Vue architecture. `Java` `Vue` ![Stars](https://img.shields.io/github/stars/lenve/vhr?style=flat-square)
 - [elunez/eladmin](https://github.com/elunez/eladmin) - Elegant admin dashboard built on Spring Boot + JPA + Spring Security + Redis + Vue. Features code generation and data permission management. `Java` `Vue` ![Stars](https://img.shields.io/github/stars/elunez/eladmin?style=flat-square)
 - [linlinjava/litemall](https://github.com/linlinjava/litemall) - Lightweight mall system: Spring Boot backend + Vue admin + WeChat Mini Program frontend. Perfect for learning full-stack development. `Java` `Vue` ![Stars](https://img.shields.io/github/stars/linlinjava/litemall?style=flat-square)
 - [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) - Microservice version of the mall project using Spring Cloud Alibaba, with service registry, config center, gateway, and monitoring. `Java` ![Stars](https://img.shields.io/github/stars/macrozheng/mall-swarm?style=flat-square)
@@ -128,7 +127,6 @@ _Related: [Backend Frameworks & Middleware](#-backend-frameworks--middleware), [
 _Battle-tested libraries and diagnostic tools from Alibaba, Dromara, and DiDi — forged in production at massive scale._
 
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Java diagnostic tool for production — inspect class loading, trace method execution, monitor JVM metrics, and hot-swap code without restarting. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/arthas?style=flat-square)
-- [alibaba/easyexcel](https://github.com/alibaba/easyexcel) - Fast, low-memory Java library for reading/writing Excel files. Handles millions of rows without OutOfMemoryError. `Alibaba` `Java` ![Stars](https://img.shields.io/github/stars/alibaba/easyexcel?style=flat-square)
 - [dromara/hutool](https://github.com/dromara/hutool) - A comprehensive Java utility library — one dependency replacing dozens of common libraries (date/time, crypto, HTTP, IO, JSON, and more). `Dromara` `Java` `EN` ![Stars](https://img.shields.io/github/stars/dromara/hutool?style=flat-square)
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - Lightweight Java auth framework covering login, permissions, OAuth2, SSO, and microservice authentication in one elegant API. `Dromara` `Java` ![Stars](https://img.shields.io/github/stars/dromara/Sa-Token?style=flat-square)
 - [alibaba/canal](https://github.com/alibaba/canal) - MySQL binlog incremental subscription & consumption — enables real-time data sync between MySQL and other datastores (ES, Redis, MQ). `Alibaba` `Java` ![Stars](https://img.shields.io/github/stars/alibaba/canal?style=flat-square)
