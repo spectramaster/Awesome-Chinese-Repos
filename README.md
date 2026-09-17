@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/stars/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Stars" alt="Stars">
     <img src="https://img.shields.io/github/last-commit/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Last%20Update" alt="Last Commit">
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
-    <img src="https://img.shields.io/badge/projects-55%2B-blue?style=flat-square" alt="Projects">
+    <img src="https://img.shields.io/badge/projects-58%2B-blue?style=flat-square" alt="Projects">
     <img src="https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square" alt="License">
   </p>
   <p>
@@ -42,7 +42,7 @@ Yet many of these projects remain invisible to international developers because 
 - [Learning & Education](#-learning--education) *(8)*
 
 **AI**
-- [AI & Machine Learning](#-ai--machine-learning) *(10)*
+- [AI & Machine Learning](#-ai--machine-learning) *(13)*
 - [AI Applications & Chatbots](#-ai-applications--chatbots) *(3)*
 
 **Systems & Frameworks**
@@ -79,16 +79,19 @@ _Comprehensive learning resources, interview preparation, and programming guides
 
 _Large language models, NLP toolkits, OCR engines, and training frameworks from China's leading AI labs._
 
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - DeepSeek's flagship open-source model — Mixture-of-Experts architecture achieving top-tier performance at a fraction of the training cost. `DeepSeek` `Python` `EN` ![Stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=flat-square)
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Production-ready multilingual OCR toolkit supporting 80+ languages with lightweight deployment and document structure analysis. `Baidu` `Python` `EN` ![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=flat-square)
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - The most comprehensive Chinese NLP resource collection: sentiment lexicons, named entity recognition, text generation, knowledge graphs, and 50+ datasets. `Python` ![Stars](https://img.shields.io/github/stars/fighting41love/funNLP?style=flat-square)
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster, and more accessible — distributed training framework supporting parallelism strategies. `Python` `EN` ![Stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=flat-square)
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - Tsinghua University's open bilingual (Chinese-English) chat model. Runs on consumer GPUs with INT4 quantization (6GB VRAM). `Tsinghua` `Python` ![Stars](https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=flat-square)
 - [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Alibaba's Qwen large language model series (now hosting Qwen3) — strong multilingual performance, code generation, and math reasoning, with 1M-token context support. `Alibaba` `Python` `EN` ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen2.5?style=flat-square)
-- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - DeepSeek's flagship open-source model — Mixture-of-Experts architecture achieving top-tier performance at a fraction of the training cost. `DeepSeek` `Python` `EN` ![Stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=flat-square)
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster, and more accessible — distributed training framework supporting parallelism strategies. `Python` `EN` ![Stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=flat-square)
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - Pocket-sized multimodal LLM series built for efficient on-device deployment — runs image, video, and speech understanding directly on phones. `OpenBMB` `Python` `EN` ![Stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=flat-square)
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - Chinese LLaMA & Alpaca large language models with expanded Chinese vocabulary and instruction tuning. `Python` ![Stars](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca?style=flat-square)
 - [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - BGE (BAAI General Embedding) models — top-performing text embeddings for retrieval, ranking, and RAG applications. `BAAI` `Python` `EN` ![Stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding?style=flat-square)
-- [baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2) - Open-source large language models (7B & 13B) with strong Chinese and multilingual capabilities. `Baichuan` `Python` ![Stars](https://img.shields.io/github/stars/baichuan-inc/Baichuan2?style=flat-square)
+- [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Moonshot AI's flagship open-weight LLM series — a trillion-parameter Mixture-of-Experts model (32B active) tuned for agentic tool use and coding. `Moonshot AI` `EN` ![Stars](https://img.shields.io/github/stars/MoonshotAI/Kimi-K2?style=flat-square)
 - [01-ai/Yi](https://github.com/01-ai/Yi) - Yi series of large language models by 01.AI (founded by Kai-Fu Lee) — bilingual models from 6B to 34B parameters. `01.AI` `Python` `EN` ![Stars](https://img.shields.io/github/stars/01-ai/Yi?style=flat-square)
+- [InternLM/InternLM](https://github.com/InternLM/InternLM) - Shanghai AI Laboratory's open LLM series (InternLM through InternLM3) with strong reasoning ability and long-context support. `Shanghai AI Lab` `Python` `EN` ![Stars](https://img.shields.io/github/stars/InternLM/InternLM?style=flat-square)
+- [baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2) - Open-source large language models (7B & 13B) with strong Chinese and multilingual capabilities. `Baichuan` `Python` ![Stars](https://img.shields.io/github/stars/baichuan-inc/Baichuan2?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
