@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/stars/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Stars" alt="Stars">
     <img src="https://img.shields.io/github/last-commit/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Last%20Update" alt="Last Commit">
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
-    <img src="https://img.shields.io/badge/projects-58%2B-blue?style=flat-square" alt="Projects">
+    <img src="https://img.shields.io/badge/projects-62%2B-blue?style=flat-square" alt="Projects">
     <img src="https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square" alt="License">
   </p>
   <p>
@@ -48,6 +48,7 @@ Yet many of these projects remain invisible to international developers because 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(11)*
 - [Developer Tools & Libraries](#-developer-tools--libraries) *(9)*
+- [Web Scraping & Data Collection](#-web-scraping--data-collection) *(3)*
 - [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(4)*
 
 **Platforms**
@@ -130,7 +131,7 @@ _Related: [Backend Frameworks & Middleware](#-backend-frameworks--middleware), [
 _Battle-tested libraries and diagnostic tools from Alibaba, Dromara, and DiDi — forged in production at massive scale._
 
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Java diagnostic tool for production — inspect class loading, trace method execution, monitor JVM metrics, and hot-swap code without restarting. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/arthas?style=flat-square)
-- [dromara/hutool](https://github.com/dromara/hutool) - A comprehensive Java utility library — one dependency replacing dozens of common libraries (date/time, crypto, HTTP, IO, JSON, and more). `Dromara` `Java` `EN` ![Stars](https://img.shields.io/github/stars/dromara/hutool?style=flat-square)
+- [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - A comprehensive Java utility library — one dependency replacing dozens of common libraries (date/time, crypto, HTTP, IO, JSON, and more). `Java` `EN` ![Stars](https://img.shields.io/github/stars/chinabugotech/hutool?style=flat-square)
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - Lightweight Java auth framework covering login, permissions, OAuth2, SSO, and microservice authentication in one elegant API. `Dromara` `Java` ![Stars](https://img.shields.io/github/stars/dromara/Sa-Token?style=flat-square)
 - [alibaba/canal](https://github.com/alibaba/canal) - MySQL binlog incremental subscription & consumption — enables real-time data sync between MySQL and other datastores (ES, Redis, MQ). `Alibaba` `Java` ![Stars](https://img.shields.io/github/stars/alibaba/canal?style=flat-square)
 - [alibaba/DataX](https://github.com/alibaba/DataX) - Offline data synchronization tool for heterogeneous data sources — supports MySQL, Oracle, HDFS, Hive, and 20+ connectors. `Alibaba` `Java` ![Stars](https://img.shields.io/github/stars/alibaba/DataX?style=flat-square)
@@ -138,6 +139,16 @@ _Battle-tested libraries and diagnostic tools from Alibaba, Dromara, and DiDi �
 - [alibaba/druid](https://github.com/alibaba/druid) - The most feature-rich database connection pool for Java — built-in SQL monitoring, firewall, and performance analytics. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/druid?style=flat-square)
 - [alibaba/nacos](https://github.com/alibaba/nacos) - Dynamic service discovery, configuration management, and service management platform for building cloud-native applications. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/nacos?style=flat-square)
 - [didi/DoKit](https://github.com/didi/DoKit) - Full lifecycle efficiency platform for mobile R&D — performance monitoring, visual debugging, mock data, and API testing. `DiDi` `Java` `Kotlin` ![Stars](https://img.shields.io/github/stars/didi/DoKit?style=flat-square)
+
+**[⬆ back to top](#contents)**
+
+## 🕸️ Web Scraping & Data Collection
+
+_Crawlers and automation tools for extracting data from Chinese (and global) platforms — from no-code visual builders to purpose-built scrapers._
+
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - Multi-platform social media crawler covering Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, and Zhihu — uses browser automation instead of reverse-engineering each platform's signing algorithm. `Python` ![Stars](https://img.shields.io/github/stars/NanmiCoder/MediaCrawler?style=flat-square)
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - Visual, no-code web crawler — design and run browser automation and scraping tasks by pointing and clicking instead of writing code. `JavaScript` `EN` ![Stars](https://img.shields.io/github/stars/NaiboWang/EasySpider?style=flat-square)
+- [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - Self-hosted REST API for scraping and downloading watermark-free videos and metadata from Douyin and TikTok, with an MCP server and CLI. `Python` `EN` ![Stars](https://img.shields.io/github/stars/Evil0ctal/Douyin_TikTok_Download_API?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
