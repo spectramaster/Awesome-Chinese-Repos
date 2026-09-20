@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/stars/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Stars" alt="Stars">
     <img src="https://img.shields.io/github/last-commit/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Last%20Update" alt="Last Commit">
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
-    <img src="https://img.shields.io/badge/projects-65%2B-blue?style=flat-square" alt="Projects">
+    <img src="https://img.shields.io/badge/projects-64%2B-blue?style=flat-square" alt="Projects">
     <img src="https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square" alt="License">
   </p>
   <p>
@@ -46,7 +46,7 @@ Yet many of these projects remain invisible to international developers because 
 - [AI Applications & Chatbots](#-ai-applications--chatbots) *(3)*
 
 **Systems & Frameworks**
-- [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(11)*
+- [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
 - [Developer Tools & Libraries](#-developer-tools--libraries) *(9)*
 - [Web Scraping & Data Collection](#-web-scraping--data-collection) *(3)*
 - [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(4)*
@@ -65,12 +65,12 @@ Yet many of these projects remain invisible to international developers because 
 
 _Comprehensive learning resources, interview preparation, and programming guides from China's tech community._
 
-- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - Monthly curated collection of interesting, beginner-friendly open-source projects across all languages. Think "Product Hunt for GitHub." `Python` ![Stars](https://img.shields.io/github/stars/521xueweihan/HelloGitHub?style=flat-square)
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - Comprehensive tech interview prep covering OS, networking, databases, system design, and Leetcode solutions. The go-to resource for Chinese CS students. ![Stars](https://img.shields.io/github/stars/CyC2018/CS-Notes?style=flat-square)
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - Monthly curated collection of interesting, beginner-friendly open-source projects across all languages. Think "Product Hunt for GitHub." `Python` ![Stars](https://img.shields.io/github/stars/521xueweihan/HelloGitHub?style=flat-square)
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - The definitive Java interview & backend development guide — covers fundamentals, distributed systems, high concurrency, and AI application development. `Java` ![Stars](https://img.shields.io/github/stars/Snailclimb/JavaGuide?style=flat-square)
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - Massive collection of free Chinese programming books covering nearly every language and framework. ![Stars](https://img.shields.io/github/stars/justjavac/free-programming-books-zh_CN?style=flat-square)
-- [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - The Chinese version of awesome-python — comprehensive Python resources including web frameworks, crawlers, data analysis, and ML libraries. `Python` ![Stars](https://img.shields.io/github/stars/jobbole/awesome-python-cn?style=flat-square)
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - Deep-dive Spring Boot project with 60+ practical demo modules covering everything from basics to advanced integrations. `Java` ![Stars](https://img.shields.io/github/stars/xkcoding/spring-boot-demo?style=flat-square)
+- [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - The Chinese version of awesome-python — comprehensive Python resources including web frameworks, crawlers, data analysis, and ML libraries. `Python` ![Stars](https://img.shields.io/github/stars/jobbole/awesome-python-cn?style=flat-square)
 - [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 50 must-know data structure and algorithm implementations in multiple languages, designed to accompany a popular Chinese algorithms course. ![Stars](https://img.shields.io/github/stars/wangzheng0822/algo?style=flat-square)
 - [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - Interactive, gamified SQL tutorial website — learn SQL from zero to advanced through coding challenges. `TypeScript` ![Stars](https://img.shields.io/github/stars/liyupi/sql-mother?style=flat-square)
 
@@ -84,8 +84,8 @@ _Large language models, NLP toolkits, OCR engines, and training frameworks from 
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Production-ready multilingual OCR toolkit supporting 80+ languages with lightweight deployment and document structure analysis. `Baidu` `Python` `EN` ![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=flat-square)
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - The most comprehensive Chinese NLP resource collection: sentiment lexicons, named entity recognition, text generation, knowledge graphs, and 50+ datasets. `Python` ![Stars](https://img.shields.io/github/stars/fighting41love/funNLP?style=flat-square)
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster, and more accessible — distributed training framework supporting parallelism strategies. `Python` `EN` ![Stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=flat-square)
-- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - Tsinghua University's open bilingual (Chinese-English) chat model. Runs on consumer GPUs with INT4 quantization (6GB VRAM). `Tsinghua` `Python` ![Stars](https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=flat-square)
-- [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Alibaba's Qwen large language model series (now hosting Qwen3) — strong multilingual performance, code generation, and math reasoning, with 1M-token context support. `Alibaba` `Python` `EN` ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen2.5?style=flat-square)
+- [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - Tsinghua University-incubated open bilingual (Chinese-English) chat model. Runs on consumer GPUs with INT4 quantization (6GB VRAM); the team's newer GLM-4 models continue the line. `Tsinghua` `Python` ![Stars](https://img.shields.io/github/stars/zai-org/ChatGLM-6B?style=flat-square)
+- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Alibaba's latest Qwen large language model series — strong multilingual performance, code generation, and math reasoning, with thinking/non-thinking mode switching and up to 1M-token context support. `Alibaba` `Python` `EN` ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=flat-square)
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - Pocket-sized multimodal LLM series built for efficient on-device deployment — runs image, video, and speech understanding directly on phones. `OpenBMB` `Python` `EN` ![Stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=flat-square)
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - Chinese LLaMA & Alpaca large language models with expanded Chinese vocabulary and instruction tuning. `Python` ![Stars](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca?style=flat-square)
 - [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - BGE (BAAI General Embedding) models — top-performing text embeddings for retrieval, ranking, and RAG applications. `BAAI` `Python` `EN` ![Stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding?style=flat-square)
@@ -101,8 +101,8 @@ _Large language models, NLP toolkits, OCR engines, and training frameworks from 
 _Ready-to-deploy AI application platforms and chat interfaces built by Chinese teams._
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Open-source LLM app development platform — build AI workflows, RAG pipelines, and agent applications with a visual interface. `TypeScript` `Python` `EN` ![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - Cross-platform ChatGPT/Gemini UI with one-click deployment. Beautiful interface with prompt library. `TypeScript` ![Stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=flat-square)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - Modern, extensible AI chat framework supporting multiple AI providers, plugins, and knowledge bases. `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=flat-square)
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - Cross-platform ChatGPT/Gemini UI with one-click deployment. Beautiful interface with prompt library. `TypeScript` ![Stars](https://img.shields.io/github/stars/ChatGPTNextWeb/ChatGPT-Next-Web?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
@@ -119,10 +119,9 @@ _Related: [Backend Frameworks & Middleware](#-backend-frameworks--middleware), [
 - [linlinjava/litemall](https://github.com/linlinjava/litemall) - Lightweight mall system: Spring Boot backend + Vue admin + WeChat Mini Program frontend. Perfect for learning full-stack development. `Java` `Vue` ![Stars](https://img.shields.io/github/stars/linlinjava/litemall?style=flat-square)
 - [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) - Microservice version of the mall project using Spring Cloud Alibaba, with service registry, config center, gateway, and monitoring. `Java` ![Stars](https://img.shields.io/github/stars/macrozheng/mall-swarm?style=flat-square)
 - [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - E-commerce system available in 5 tech stacks: Spring Boot, Vue 3, Go, and Spring Cloud Alibaba microservices. Great for comparing architectures. `Java` `Go` `Vue` ![Stars](https://img.shields.io/github/stars/newbee-ltd/newbee-mall?style=flat-square)
-- [201206030/novel](https://github.com/201206030/novel) - Novel reading platform with recommendation, search, rankings, reading, and author management. Comes with step-by-step tutorials. `Java` `Vue` ![Stars](https://img.shields.io/github/stars/201206030/novel?style=flat-square)
-- [shuzheng/zheng](https://github.com/shuzheng/zheng) - Distributed agile development architecture providing SSO, CMS, payment center, user management, WeChat integration, and configuration center. `Java` ![Stars](https://img.shields.io/github/stars/shuzheng/zheng?style=flat-square)
-- [jishenghua/jshERP](https://github.com/jishenghua/jshERP) - Open-source ERP system for small businesses — inventory management, purchasing, sales, and financial management with SaaS support. `Java` `Vue` ![Stars](https://img.shields.io/github/stars/jishenghua/jshERP?style=flat-square)
 - [jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community) - Enterprise IoT platform: reactive architecture, unified device management, multi-protocol support (TCP, MQTT, HTTP, CoAP). `Java` ![Stars](https://img.shields.io/github/stars/jetlinks/jetlinks-community?style=flat-square)
+- [201206030/novel](https://github.com/201206030/novel) - Novel reading platform with recommendation, search, rankings, reading, and author management. Comes with step-by-step tutorials. `Java` `Vue` ![Stars](https://img.shields.io/github/stars/201206030/novel?style=flat-square)
+- [jishenghua/jshERP](https://github.com/jishenghua/jshERP) - Open-source ERP system for small businesses — inventory management, purchasing, sales, and financial management with SaaS support. `Java` `Vue` ![Stars](https://img.shields.io/github/stars/jishenghua/jshERP?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
@@ -131,14 +130,14 @@ _Related: [Backend Frameworks & Middleware](#-backend-frameworks--middleware), [
 _Battle-tested libraries and diagnostic tools from Alibaba, Dromara, and DiDi — forged in production at massive scale._
 
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Java diagnostic tool for production — inspect class loading, trace method execution, monitor JVM metrics, and hot-swap code without restarting. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/arthas?style=flat-square)
-- [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - A comprehensive Java utility library — one dependency replacing dozens of common libraries (date/time, crypto, HTTP, IO, JSON, and more). `Java` `EN` ![Stars](https://img.shields.io/github/stars/chinabugotech/hutool?style=flat-square)
-- [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - Lightweight Java auth framework covering login, permissions, OAuth2, SSO, and microservice authentication in one elegant API. `Dromara` `Java` ![Stars](https://img.shields.io/github/stars/dromara/Sa-Token?style=flat-square)
-- [alibaba/canal](https://github.com/alibaba/canal) - MySQL binlog incremental subscription & consumption — enables real-time data sync between MySQL and other datastores (ES, Redis, MQ). `Alibaba` `Java` ![Stars](https://img.shields.io/github/stars/alibaba/canal?style=flat-square)
-- [alibaba/DataX](https://github.com/alibaba/DataX) - Offline data synchronization tool for heterogeneous data sources — supports MySQL, Oracle, HDFS, Hive, and 20+ connectors. `Alibaba` `Java` ![Stars](https://img.shields.io/github/stars/alibaba/DataX?style=flat-square)
-- [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - Flow control, circuit breaking, and system adaptive protection for microservices — battle-tested at Alibaba's Double 11 shopping festival. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/Sentinel?style=flat-square)
-- [alibaba/druid](https://github.com/alibaba/druid) - The most feature-rich database connection pool for Java — built-in SQL monitoring, firewall, and performance analytics. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/druid?style=flat-square)
 - [alibaba/nacos](https://github.com/alibaba/nacos) - Dynamic service discovery, configuration management, and service management platform for building cloud-native applications. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/nacos?style=flat-square)
+- [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - A comprehensive Java utility library — one dependency replacing dozens of common libraries (date/time, crypto, HTTP, IO, JSON, and more). `Java` `EN` ![Stars](https://img.shields.io/github/stars/chinabugotech/hutool?style=flat-square)
+- [alibaba/canal](https://github.com/alibaba/canal) - MySQL binlog incremental subscription & consumption — enables real-time data sync between MySQL and other datastores (ES, Redis, MQ). `Alibaba` `Java` ![Stars](https://img.shields.io/github/stars/alibaba/canal?style=flat-square)
+- [alibaba/druid](https://github.com/alibaba/druid) - The most feature-rich database connection pool for Java — built-in SQL monitoring, firewall, and performance analytics. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/druid?style=flat-square)
+- [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - Flow control, circuit breaking, and system adaptive protection for microservices — battle-tested at Alibaba's Double 11 shopping festival. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/Sentinel?style=flat-square)
 - [didi/DoKit](https://github.com/didi/DoKit) - Full lifecycle efficiency platform for mobile R&D — performance monitoring, visual debugging, mock data, and API testing. `DiDi` `Java` `Kotlin` ![Stars](https://img.shields.io/github/stars/didi/DoKit?style=flat-square)
+- [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - Lightweight Java auth framework covering login, permissions, OAuth2, SSO, and microservice authentication in one elegant API. `Dromara` `Java` ![Stars](https://img.shields.io/github/stars/dromara/Sa-Token?style=flat-square)
+- [alibaba/DataX](https://github.com/alibaba/DataX) - Offline data synchronization tool for heterogeneous data sources — supports MySQL, Oracle, HDFS, Hive, and 20+ connectors. `Alibaba` `Java` ![Stars](https://img.shields.io/github/stars/alibaba/DataX?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
@@ -160,8 +159,8 @@ _Related: [Developer Tools & Libraries](#-developer-tools--libraries)_
 
 - [fatedier/frp](https://github.com/fatedier/frp) - Fast reverse proxy — expose local servers behind NAT/firewall to the internet. Supports TCP, UDP, HTTP, HTTPS with dashboard. `Go` `EN` ![Stars](https://img.shields.io/github/stars/fatedier/frp?style=flat-square)
 - [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - Cloud-native version of ruoyi-vue-pro using Spring Cloud Alibaba + MyBatis Plus. Full microservice architecture with SaaS support. `Java` ![Stars](https://img.shields.io/github/stars/YunaiV/yudao-cloud?style=flat-square)
-- [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - Production-ready Gin API framework with CORS, JWT, Zap logging, Prometheus metrics, Swagger docs, and gRPC support. `Go` ![Stars](https://img.shields.io/github/stars/xinliangnote/go-gin-api?style=flat-square)
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - Self-hosted SSL certificate automation — ACME issuance, deployment, renewal, and monitoring with visual dashboard. `Go` ![Stars](https://img.shields.io/github/stars/certimate-go/certimate?style=flat-square)
+- [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - Production-ready Gin API framework with CORS, JWT, Zap logging, Prometheus metrics, Swagger docs, and gRPC support. `Go` ![Stars](https://img.shields.io/github/stars/xinliangnote/go-gin-api?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
@@ -178,8 +177,8 @@ _Android components and mobile development tools._
 
 _Distributed databases and data infrastructure — where Chinese engineering shines globally._
 
-- [pingcap/tidb](https://github.com/pingcap/tidb) - Distributed SQL database with horizontal scalability, MySQL compatibility, and strong consistency. Handles hybrid OLTP & OLAP workloads. `PingCAP` `Go` `EN` ![Stars](https://img.shields.io/github/stars/pingcap/tidb?style=flat-square)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Purpose-built vector database for AI applications — similarity search on billion-scale vectors for RAG, recommendation, and image search. `Zilliz` `Go` `EN` ![Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=flat-square)
+- [pingcap/tidb](https://github.com/pingcap/tidb) - Distributed SQL database with horizontal scalability, MySQL compatibility, and strong consistency. Handles hybrid OLTP & OLAP workloads. `PingCAP` `Go` `EN` ![Stars](https://img.shields.io/github/stars/pingcap/tidb?style=flat-square)
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Distributed database middleware ecosystem — data sharding, read-write splitting, data encryption, and shadow database. Originally from JD.com. `JD.com` `Java` `EN` ![Stars](https://img.shields.io/github/stars/apache/shardingsphere?style=flat-square)
 
 **[⬆ back to top](#contents)**
@@ -188,8 +187,8 @@ _Distributed databases and data infrastructure — where Chinese engineering shi
 
 _Penetration testing and web application security tools._
 
-- [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - All-in-one intranet scanning tool — one-click automated vulnerability scanning for penetration testing. `Go` ![Stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square)
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - Self-hosted Web Application Firewall (WAF) powered by intelligent semantic analysis — simple to deploy, effective against web attacks. `Chaitin` `Go` `EN` ![Stars](https://img.shields.io/github/stars/chaitin/SafeLine?style=flat-square)
+- [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - All-in-one intranet scanning tool — one-click automated vulnerability scanning for penetration testing. `Go` ![Stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
@@ -205,8 +204,8 @@ _Website builders and content management systems._
 
 _Infrastructure monitoring and operations tools._
 
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Real-time monitoring system — agentless monitoring for servers, databases, middleware, cloud native, and custom metrics. Graduated from the Dromara community to the Apache Software Foundation. `Java` `EN` ![Stars](https://img.shields.io/github/stars/apache/hertzbeat?style=flat-square)
 - [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Comprehensive Linux monitoring: hardware, CPU, memory, disk I/O, GPU, Docker, Kubernetes, network traffic, processes, and log monitoring with alerting. `Java` ![Stars](https://img.shields.io/github/stars/tianshiyeben/wgcloud?style=flat-square)
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - Real-time monitoring system — agentless monitoring for servers, databases, middleware, cloud native, and custom metrics. `Dromara` `Java` `EN` ![Stars](https://img.shields.io/github/stars/dromara/hertzbeat?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
