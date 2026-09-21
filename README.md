@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/stars/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Stars" alt="Stars">
     <img src="https://img.shields.io/github/last-commit/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Last%20Update" alt="Last Commit">
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
-    <img src="https://img.shields.io/badge/projects-64%2B-blue?style=flat-square" alt="Projects">
+    <img src="https://img.shields.io/badge/projects-67%2B-blue?style=flat-square" alt="Projects">
     <img src="https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square" alt="License">
   </p>
   <p>
@@ -42,12 +42,12 @@ Yet many of these projects remain invisible to international developers because 
 - [Learning & Education](#-learning--education) *(8)*
 
 **AI**
-- [AI & Machine Learning](#-ai--machine-learning) *(13)*
-- [AI Applications & Chatbots](#-ai-applications--chatbots) *(3)*
+- [AI & Machine Learning](#-ai--machine-learning) *(14)*
+- [AI Applications & Chatbots](#-ai-applications--chatbots) *(4)*
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
-- [Developer Tools & Libraries](#-developer-tools--libraries) *(9)*
+- [Developer Tools & Libraries](#-developer-tools--libraries) *(10)*
 - [Web Scraping & Data Collection](#-web-scraping--data-collection) *(3)*
 - [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(4)*
 
@@ -85,6 +85,7 @@ _Large language models, NLP toolkits, OCR engines, and training frameworks from 
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - The most comprehensive Chinese NLP resource collection: sentiment lexicons, named entity recognition, text generation, knowledge graphs, and 50+ datasets. `Python` ![Stars](https://img.shields.io/github/stars/fighting41love/funNLP?style=flat-square)
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster, and more accessible — distributed training framework supporting parallelism strategies. `Python` `EN` ![Stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=flat-square)
 - [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - Tsinghua University-incubated open bilingual (Chinese-English) chat model. Runs on consumer GPUs with INT4 quantization (6GB VRAM); the team's newer GLM-4 models continue the line. `Tsinghua` `Python` ![Stars](https://img.shields.io/github/stars/zai-org/ChatGLM-6B?style=flat-square)
+- [hankcs/HanLP](https://github.com/hankcs/HanLP) - Comprehensive multilingual NLP toolkit covering Chinese word segmentation, POS tagging, named entity recognition, dependency parsing, and semantic analysis — one of the most widely used production-grade Chinese NLP libraries. `Python` ![Stars](https://img.shields.io/github/stars/hankcs/HanLP?style=flat-square)
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Alibaba's latest Qwen large language model series — strong multilingual performance, code generation, and math reasoning, with thinking/non-thinking mode switching and up to 1M-token context support. `Alibaba` `Python` `EN` ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=flat-square)
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - Pocket-sized multimodal LLM series built for efficient on-device deployment — runs image, video, and speech understanding directly on phones. `OpenBMB` `Python` `EN` ![Stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=flat-square)
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - Chinese LLaMA & Alpaca large language models with expanded Chinese vocabulary and instruction tuning. `Python` ![Stars](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca?style=flat-square)
@@ -103,6 +104,7 @@ _Ready-to-deploy AI application platforms and chat interfaces built by Chinese t
 - [langgenius/dify](https://github.com/langgenius/dify) - Open-source LLM app development platform — build AI workflows, RAG pipelines, and agent applications with a visual interface. `TypeScript` `Python` `EN` ![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - Cross-platform ChatGPT/Gemini UI with one-click deployment. Beautiful interface with prompt library. `TypeScript` ![Stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=flat-square)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - Modern, extensible AI chat framework supporting multiple AI providers, plugins, and knowledge bases. `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=flat-square)
+- [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - Self-hosted, privacy-first AI assistant platform from Tencent — multi-user, multi-agent, with a web dashboard, CLI, and chat integrations for Feishu and Discord. `Tencent` `Python` `EN` ![Stars](https://img.shields.io/github/stars/TencentCloud/Octop?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
@@ -133,6 +135,7 @@ _Battle-tested libraries and diagnostic tools from Alibaba, Dromara, and DiDi �
 - [alibaba/nacos](https://github.com/alibaba/nacos) - Dynamic service discovery, configuration management, and service management platform for building cloud-native applications. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/nacos?style=flat-square)
 - [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - A comprehensive Java utility library — one dependency replacing dozens of common libraries (date/time, crypto, HTTP, IO, JSON, and more). `Java` `EN` ![Stars](https://img.shields.io/github/stars/chinabugotech/hutool?style=flat-square)
 - [alibaba/canal](https://github.com/alibaba/canal) - MySQL binlog incremental subscription & consumption — enables real-time data sync between MySQL and other datastores (ES, Redis, MQ). `Alibaba` `Java` ![Stars](https://img.shields.io/github/stars/alibaba/canal?style=flat-square)
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Open-source monospace programming font with rounded corners, ligatures, and Nerd Font icons, tuned for a precise 2:1 Chinese-English character width ratio and fine-grained customization. `EN` ![Stars](https://img.shields.io/github/stars/subframe7536/maple-font?style=flat-square)
 - [alibaba/druid](https://github.com/alibaba/druid) - The most feature-rich database connection pool for Java — built-in SQL monitoring, firewall, and performance analytics. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/druid?style=flat-square)
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - Flow control, circuit breaking, and system adaptive protection for microservices — battle-tested at Alibaba's Double 11 shopping festival. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/Sentinel?style=flat-square)
 - [didi/DoKit](https://github.com/didi/DoKit) - Full lifecycle efficiency platform for mobile R&D — performance monitoring, visual debugging, mock data, and API testing. `DiDi` `Java` `Kotlin` ![Stars](https://img.shields.io/github/stars/didi/DoKit?style=flat-square)
