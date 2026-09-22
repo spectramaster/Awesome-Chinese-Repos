@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/stars/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Stars" alt="Stars">
     <img src="https://img.shields.io/github/last-commit/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Last%20Update" alt="Last Commit">
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
-    <img src="https://img.shields.io/badge/projects-67%2B-blue?style=flat-square" alt="Projects">
+    <img src="https://img.shields.io/badge/projects-70%2B-blue?style=flat-square" alt="Projects">
     <img src="https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square" alt="License">
   </p>
   <p>
@@ -52,7 +52,7 @@ Yet many of these projects remain invisible to international developers because 
 - [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(4)*
 
 **Platforms**
-- [Mobile Development](#-mobile-development) *(2)*
+- [Mobile Development](#-mobile-development) *(5)*
 - [Data & Database](#-data--database) *(3)*
 - [Security Tools](#-security-tools) *(2)*
 - [Content Management & Blogging](#-content-management--blogging) *(1)*
@@ -173,6 +173,9 @@ _Android components and mobile development tools._
 
 - [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - The most versatile pull-to-refresh layout for Android — supports any scrollable view with 30+ custom header/footer styles. `Java` ![Stars](https://img.shields.io/github/stars/scwang90/SmartRefreshLayout?style=flat-square)
 - [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - Feature-rich Android video player supporting IJKplayer, ExoPlayer, and MediaPlayer — with HTTPS, danmaku (bullet comments), and 16K support. `Java` `Kotlin` ![Stars](https://img.shields.io/github/stars/CarGuo/GSYVideoPlayer?style=flat-square)
+- [Tencent/MMKV](https://github.com/Tencent/MMKV) - Efficient, small mobile key-value storage framework developed by WeChat — used in production across Android, iOS, macOS, Windows, and cross-platform via Flutter/React Native bindings. `Tencent` `C++` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/MMKV?style=flat-square)
+- [alibaba/ARouter](https://github.com/alibaba/ARouter) - Routing framework for Android app componentization — annotation-based navigation between modules with support for dependency injection and interceptors. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/ARouter?style=flat-square)
+- [alibaba/flutter_boost](https://github.com/alibaba/flutter_boost) - Flutter plugin for hybrid integration — lets existing native Android/iOS apps embed Flutter pages incrementally instead of a full rewrite. `Alibaba` `Dart` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/flutter_boost?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
