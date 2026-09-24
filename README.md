@@ -42,8 +42,8 @@ Yet many of these projects remain invisible to international developers because 
 - [Learning & Education](#-learning--education) *(8)*
 
 **AI**
-- [AI & Machine Learning](#-ai--machine-learning) *(14)*
-- [AI Applications & Chatbots](#-ai-applications--chatbots) *(4)*
+- [AI & Machine Learning](#-ai--machine-learning) *(16)*
+- [AI Applications & Chatbots](#-ai-applications--chatbots) *(5)*
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
@@ -83,6 +83,7 @@ _Large language models, NLP toolkits, OCR engines, and training frameworks from 
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - DeepSeek's flagship open-source model — Mixture-of-Experts architecture achieving top-tier performance at a fraction of the training cost. `DeepSeek` `Python` `EN` ![Stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=flat-square)
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Production-ready multilingual OCR toolkit supporting 80+ languages with lightweight deployment and document structure analysis. `Baidu` `Python` `EN` ![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=flat-square)
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - The most comprehensive Chinese NLP resource collection: sentiment lexicons, named entity recognition, text generation, knowledge graphs, and 50+ datasets. `Python` ![Stars](https://img.shields.io/github/stars/fighting41love/funNLP?style=flat-square)
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - ByteDance's open-source long-horizon SuperAgent harness — sandboxed execution, persistent memory, skills, and sub-agent orchestration for research, coding, and content-creation tasks. `ByteDance` `Python` `EN` ![Stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square)
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster, and more accessible — distributed training framework supporting parallelism strategies. `Python` `EN` ![Stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=flat-square)
 - [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - Tsinghua University-incubated open bilingual (Chinese-English) chat model. Runs on consumer GPUs with INT4 quantization (6GB VRAM); the team's newer GLM-4 models continue the line. `Tsinghua` `Python` ![Stars](https://img.shields.io/github/stars/zai-org/ChatGLM-6B?style=flat-square)
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - Comprehensive multilingual NLP toolkit covering Chinese word segmentation, POS tagging, named entity recognition, dependency parsing, and semantic analysis — one of the most widely used production-grade Chinese NLP libraries. `Python` ![Stars](https://img.shields.io/github/stars/hankcs/HanLP?style=flat-square)
@@ -93,6 +94,7 @@ _Large language models, NLP toolkits, OCR engines, and training frameworks from 
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Moonshot AI's flagship open-weight LLM series — a trillion-parameter Mixture-of-Experts model (32B active) tuned for agentic tool use and coding. `Moonshot AI` `EN` ![Stars](https://img.shields.io/github/stars/MoonshotAI/Kimi-K2?style=flat-square)
 - [01-ai/Yi](https://github.com/01-ai/Yi) - Yi series of large language models by 01.AI (founded by Kai-Fu Lee) — bilingual models from 6B to 34B parameters. `01.AI` `Python` `EN` ![Stars](https://img.shields.io/github/stars/01-ai/Yi?style=flat-square)
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - Shanghai AI Laboratory's open LLM series (InternLM through InternLM3) with strong reasoning ability and long-context support. `Shanghai AI Lab` `Python` `EN` ![Stars](https://img.shields.io/github/stars/InternLM/InternLM?style=flat-square)
+- [zai-org/GLM-5](https://github.com/zai-org/GLM-5) - Zhipu AI's frontier GLM-5 model series, tuned for agentic engineering and long-horizon coding tasks — the current flagship successor to the ChatGLM line. `Zhipu AI` `Python` `EN` ![Stars](https://img.shields.io/github/stars/zai-org/GLM-5?style=flat-square)
 - [baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2) - Open-source large language models (7B & 13B) with strong Chinese and multilingual capabilities. `Baichuan` `Python` ![Stars](https://img.shields.io/github/stars/baichuan-inc/Baichuan2?style=flat-square)
 
 **[⬆ back to top](#contents)**
@@ -102,6 +104,7 @@ _Large language models, NLP toolkits, OCR engines, and training frameworks from 
 _Ready-to-deploy AI application platforms and chat interfaces built by Chinese teams._
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Open-source LLM app development platform — build AI workflows, RAG pipelines, and agent applications with a visual interface. `TypeScript` `Python` `EN` ![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - Open-source RAG engine built on deep document understanding, fusing retrieval with agent capabilities to power production knowledge-base and RAG applications. `InfiniFlow` `Python` `EN` ![Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square)
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - Cross-platform ChatGPT/Gemini UI with one-click deployment. Beautiful interface with prompt library. `TypeScript` ![Stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=flat-square)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - Modern, extensible AI chat framework supporting multiple AI providers, plugins, and knowledge bases. `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=flat-square)
 - [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - Self-hosted, privacy-first AI assistant platform from Tencent — multi-user, multi-agent, with a web dashboard, CLI, and chat integrations for Feishu and Discord. `Tencent` `Python` `EN` ![Stars](https://img.shields.io/github/stars/TencentCloud/Octop?style=flat-square)
