@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/stars/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Stars" alt="Stars">
     <img src="https://img.shields.io/github/last-commit/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Last%20Update" alt="Last Commit">
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
-    <img src="https://img.shields.io/badge/projects-70%2B-blue?style=flat-square" alt="Projects">
+    <img src="https://img.shields.io/badge/projects-75%2B-blue?style=flat-square" alt="Projects">
     <img src="https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square" alt="License">
   </p>
   <p>
@@ -47,9 +47,9 @@ Yet many of these projects remain invisible to international developers because 
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
-- [Developer Tools & Libraries](#-developer-tools--libraries) *(10)*
+- [Developer Tools & Libraries](#-developer-tools--libraries) *(12)*
 - [Web Scraping & Data Collection](#-web-scraping--data-collection) *(3)*
-- [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(4)*
+- [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(5)*
 
 **Platforms**
 - [Mobile Development](#-mobile-development) *(5)*
@@ -134,6 +134,8 @@ _Related: [Backend Frameworks & Middleware](#-backend-frameworks--middleware), [
 
 _Battle-tested libraries and diagnostic tools from Alibaba, Dromara, and DiDi — forged in production at massive scale._
 
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) - Enterprise-class UI design language and React component library from Ant Group — 70+ high-quality components powering countless production applications worldwide. `Ant Group` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/ant-design/ant-design?style=flat-square)
+- [apache/echarts](https://github.com/apache/echarts) - Powerful, highly customizable charting and data visualization library, originally built by Baidu engineers and now a top-level Apache Software Foundation project. `Baidu` `JavaScript` `EN` ![Stars](https://img.shields.io/github/stars/apache/echarts?style=flat-square)
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Java diagnostic tool for production — inspect class loading, trace method execution, monitor JVM metrics, and hot-swap code without restarting. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/arthas?style=flat-square)
 - [alibaba/nacos](https://github.com/alibaba/nacos) - Dynamic service discovery, configuration management, and service management platform for building cloud-native applications. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/nacos?style=flat-square)
 - [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - A comprehensive Java utility library — one dependency replacing dozens of common libraries (date/time, crypto, HTTP, IO, JSON, and more). `Java` `EN` ![Stars](https://img.shields.io/github/stars/chinabugotech/hutool?style=flat-square)
@@ -164,6 +166,7 @@ _Networking tools, API frameworks, and infrastructure middleware._
 _Related: [Developer Tools & Libraries](#-developer-tools--libraries)_
 
 - [fatedier/frp](https://github.com/fatedier/frp) - Fast reverse proxy — expose local servers behind NAT/firewall to the internet. Supports TCP, UDP, HTTP, HTTPS with dashboard. `Go` `EN` ![Stars](https://img.shields.io/github/stars/fatedier/frp?style=flat-square)
+- [apache/dubbo](https://github.com/apache/dubbo) - High-performance RPC and microservices framework originally built at Alibaba, now a top-level Apache project supporting service governance across multiple languages. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/apache/dubbo?style=flat-square)
 - [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - Cloud-native version of ruoyi-vue-pro using Spring Cloud Alibaba + MyBatis Plus. Full microservice architecture with SaaS support. `Java` ![Stars](https://img.shields.io/github/stars/YunaiV/yudao-cloud?style=flat-square)
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - Self-hosted SSL certificate automation — ACME issuance, deployment, renewal, and monitoring with visual dashboard. `Go` ![Stars](https://img.shields.io/github/stars/certimate-go/certimate?style=flat-square)
 - [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - Production-ready Gin API framework with CORS, JWT, Zap logging, Prometheus metrics, Swagger docs, and gRPC support. `Go` ![Stars](https://img.shields.io/github/stars/xinliangnote/go-gin-api?style=flat-square)
