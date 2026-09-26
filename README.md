@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/stars/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Stars" alt="Stars">
     <img src="https://img.shields.io/github/last-commit/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Last%20Update" alt="Last Commit">
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
-    <img src="https://img.shields.io/badge/projects-75%2B-blue?style=flat-square" alt="Projects">
+    <img src="https://img.shields.io/badge/projects-95%2B-blue?style=flat-square" alt="Projects">
     <img src="https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square" alt="License">
   </p>
   <p>
@@ -57,7 +57,7 @@ Yet many of these projects remain invisible to international developers because 
 - [Security Tools](#-security-tools) *(2)*
 - [Content Management & Blogging](#-content-management--blogging) *(1)*
 - [DevOps & Monitoring](#-devops--monitoring) *(2)*
-- [WeChat Ecosystem](#-wechat-ecosystem) *(5)*
+- [WeChat Ecosystem](#-wechat-ecosystem) *(8)*
 
 ---
 
@@ -229,8 +229,11 @@ _Related: [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels
 
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - Vue.js-based framework for writing an app once and deploying it to iOS, Android, Web, and WeChat/Alipay/Baidu/ByteDance/QQ mini programs from a single codebase. `DCloud` `Vue` ![Stars](https://img.shields.io/github/stars/dcloudio/uni-app?style=flat-square)
 - [NervJS/taro](https://github.com/NervJS/taro) - Open cross-platform, cross-framework solution for building WeChat/Alipay/Baidu/ByteDance/QQ mini programs, H5, and React Native apps using React or Vue syntax. `TypeScript` ![Stars](https://img.shields.io/github/stars/NervJS/taro?style=flat-square)
+- [binarywang/WxJava](https://github.com/binarywang/WxJava) - Comprehensive Java SDK for WeChat backend development — covers official accounts, mini programs, WeChat Pay, enterprise WeChat, video channels, and the open platform. `Java` ![Stars](https://img.shields.io/github/stars/binarywang/WxJava?style=flat-square)
+- [Tencent/weui](https://github.com/Tencent/weui) - Official UI component library from the WeChat design team — buttons, dialogs, toasts, and other widgets styled to match native WeChat mobile web and mini program interfaces. `Tencent` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/weui?style=flat-square)
 - [linlinjava/litemall](https://github.com/linlinjava/litemall) - Full-stack mall with WeChat Mini Program storefront — great example of WeChat commerce integration. `Java` `Vue` *(Also in [Full-Stack Systems](#-full-stack-systems--admin-panels))* ![Stars](https://img.shields.io/github/stars/linlinjava/litemall?style=flat-square)
 - [youzan/vant-weapp](https://github.com/youzan/vant-weapp) - Lightweight, reliable UI component library for WeChat Mini Programs, ported from Youzan's popular Vant design system — 60+ ready-made components. `Youzan` `JavaScript` ![Stars](https://img.shields.io/github/stars/youzan/vant-weapp?style=flat-square)
+- [w7corp/easywechat](https://github.com/w7corp/easywechat) - Widely-used PHP SDK for WeChat integration — official accounts, mini programs, WeChat Pay, and the open platform, distilled into a simple, consistent API. `PHP` ![Stars](https://img.shields.io/github/stars/w7corp/easywechat?style=flat-square)
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - Automated WeChat Mini Program decompilation tool — for security assessment, reverse engineering, and debugging. `Go` ![Stars](https://img.shields.io/github/stars/Ackites/KillWxapkg?style=flat-square)
 
 **[⬆ back to top](#contents)**
