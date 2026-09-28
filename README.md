@@ -39,11 +39,11 @@ Yet many of these projects remain invisible to international developers because 
 ## Contents
 
 **Learning**
-- [Learning & Education](#-learning--education) *(8)*
+- [Learning & Education](#-learning--education) *(10)*
 
 **AI**
 - [AI & Machine Learning](#-ai--machine-learning) *(16)*
-- [AI Applications & Chatbots](#-ai-applications--chatbots) *(5)*
+- [AI Applications & Chatbots](#-ai-applications--chatbots) *(6)*
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
@@ -72,7 +72,9 @@ _Comprehensive learning resources, interview preparation, and programming guides
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - Deep-dive Spring Boot project with 60+ practical demo modules covering everything from basics to advanced integrations. `Java` ![Stars](https://img.shields.io/github/stars/xkcoding/spring-boot-demo?style=flat-square)
 - [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - The Chinese version of awesome-python — comprehensive Python resources including web frameworks, crawlers, data analysis, and ML libraries. `Python` ![Stars](https://img.shields.io/github/stars/jobbole/awesome-python-cn?style=flat-square)
 - [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 50 must-know data structure and algorithm implementations in multiple languages, designed to accompany a popular Chinese algorithms course. ![Stars](https://img.shields.io/github/stars/wangzheng0822/algo?style=flat-square)
+- [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) - Open book on AI infrastructure that derives LLM inference and training system design decisions from first-principles hardware constraints and quantitative analysis, with companion calculators and experiments. `Python` ![Stars](https://img.shields.io/github/stars/bojieli/ai-infra-book?style=flat-square)
 - [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - Interactive, gamified SQL tutorial website — learn SQL from zero to advanced through coding challenges. `TypeScript` ![Stars](https://img.shields.io/github/stars/liyupi/sql-mother?style=flat-square)
+- [youngyangyang04/llm-master](https://github.com/youngyangyang04/llm-master) - Full-stack LLM engineering curriculum covering prompt engineering, RAG, agents, fine-tuning (SFT/RLHF/DPO/LoRA), Transformer internals, and production deployment, with 150+ tutorials and interview prep. ![Stars](https://img.shields.io/github/stars/youngyangyang04/llm-master?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
@@ -108,6 +110,7 @@ _Ready-to-deploy AI application platforms and chat interfaces built by Chinese t
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - Cross-platform ChatGPT/Gemini UI with one-click deployment. Beautiful interface with prompt library. `TypeScript` ![Stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=flat-square)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - Modern, extensible AI chat framework supporting multiple AI providers, plugins, and knowledge bases. `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=flat-square)
 - [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - Self-hosted, privacy-first AI assistant platform from Tencent — multi-user, multi-agent, with a web dashboard, CLI, and chat integrations for Feishu and Discord. `Tencent` `Python` `EN` ![Stars](https://img.shields.io/github/stars/TencentCloud/Octop?style=flat-square)
+- [ZJU-REAL/Easel](https://github.com/ZJU-REAL/Easel) - Open-source AI content workbench for social media creators — trend discovery, script/visual/video generation, and direct publishing across Xiaohongshu, Douyin, Bilibili, Zhihu, and WeChat, with persistent creator profiles. From Zhejiang University and Peking University research labs. `Python` ![Stars](https://img.shields.io/github/stars/ZJU-REAL/Easel?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
