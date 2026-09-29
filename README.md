@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/stars/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Stars" alt="Stars">
     <img src="https://img.shields.io/github/last-commit/spectramaster/Awesome-Chinese-Repos?style=flat-square&label=Last%20Update" alt="Last Commit">
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
-    <img src="https://img.shields.io/badge/projects-95%2B-blue?style=flat-square" alt="Projects">
+    <img src="https://img.shields.io/badge/projects-100%2B-blue?style=flat-square" alt="Projects">
     <img src="https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square" alt="License">
   </p>
   <p>
@@ -54,7 +54,7 @@ Yet many of these projects remain invisible to international developers because 
 **Platforms**
 - [Mobile Development](#-mobile-development) *(5)*
 - [Data & Database](#-data--database) *(3)*
-- [Security Tools](#-security-tools) *(2)*
+- [Security Tools](#-security-tools) *(3)*
 - [Content Management & Blogging](#-content-management--blogging) *(1)*
 - [DevOps & Monitoring](#-devops--monitoring) *(2)*
 - [WeChat Ecosystem](#-wechat-ecosystem) *(8)*
@@ -204,6 +204,7 @@ _Penetration testing and web application security tools._
 
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - Self-hosted Web Application Firewall (WAF) powered by intelligent semantic analysis — simple to deploy, effective against web attacks. `Chaitin` `Go` `EN` ![Stars](https://img.shields.io/github/stars/chaitin/SafeLine?style=flat-square)
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - All-in-one intranet scanning tool — one-click automated vulnerability scanning for penetration testing. `Go` ![Stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square)
+- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - AI-powered multi-agent platform for automated code vulnerability discovery — autonomous static analysis plus sandboxed PoC validation, with one-click setup and local LLM (Ollama) support. `Python` `EN` ![Stars](https://img.shields.io/github/stars/lintsinghua/DeepAudit?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
