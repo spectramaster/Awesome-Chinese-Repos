@@ -42,12 +42,12 @@ Yet many of these projects remain invisible to international developers because 
 - [Learning & Education](#-learning--education) *(10)*
 
 **AI**
-- [AI & Machine Learning](#-ai--machine-learning) *(16)*
+- [AI & Machine Learning](#-ai--machine-learning) *(17)*
 - [AI Applications & Chatbots](#-ai-applications--chatbots) *(6)*
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
-- [Developer Tools & Libraries](#-developer-tools--libraries) *(12)*
+- [Developer Tools & Libraries](#-developer-tools--libraries) *(14)*
 - [Web Scraping & Data Collection](#-web-scraping--data-collection) *(3)*
 - [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(5)*
 
@@ -91,6 +91,7 @@ _Large language models, NLP toolkits, OCR engines, and training frameworks from 
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - Comprehensive multilingual NLP toolkit covering Chinese word segmentation, POS tagging, named entity recognition, dependency parsing, and semantic analysis — one of the most widely used production-grade Chinese NLP libraries. `Python` ![Stars](https://img.shields.io/github/stars/hankcs/HanLP?style=flat-square)
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Alibaba's latest Qwen large language model series — strong multilingual performance, code generation, and math reasoning, with thinking/non-thinking mode switching and up to 1M-token context support. `Alibaba` `Python` `EN` ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=flat-square)
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - Pocket-sized multimodal LLM series built for efficient on-device deployment — runs image, video, and speech understanding directly on phones. `OpenBMB` `Python` `EN` ![Stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=flat-square)
+- [Tencent/ncnn](https://github.com/Tencent/ncnn) - High-performance neural network inference framework optimized for mobile and embedded platforms — deploys deep learning models with no third-party dependencies, widely used for on-device AI. `Tencent` `C++` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/ncnn?style=flat-square)
 - [modelscope/FunASR](https://github.com/modelscope/FunASR) - Alibaba's production-grade speech toolkit — streaming and offline ASR, voice activity detection, punctuation restoration, and speaker diarization, with OpenAI-compatible serving. `Alibaba` `Python` `EN` ![Stars](https://img.shields.io/github/stars/modelscope/FunASR?style=flat-square)
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - Chinese LLaMA & Alpaca large language models with expanded Chinese vocabulary and instruction tuning. `Python` ![Stars](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca?style=flat-square)
 - [Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) - Tencent's open-source video foundation model for text-to-video generation, with quality the team reports as competitive with leading closed-source systems. `Tencent` `Python` `EN` ![Stars](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo?style=flat-square)
@@ -148,6 +149,8 @@ _Battle-tested libraries and diagnostic tools from Alibaba, Dromara, and DiDi �
 - [alibaba/canal](https://github.com/alibaba/canal) - MySQL binlog incremental subscription & consumption — enables real-time data sync between MySQL and other datastores (ES, Redis, MQ). `Alibaba` `Java` ![Stars](https://img.shields.io/github/stars/alibaba/canal?style=flat-square)
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Open-source monospace programming font with rounded corners, ligatures, and Nerd Font icons, tuned for a precise 2:1 Chinese-English character width ratio and fine-grained customization. `EN` ![Stars](https://img.shields.io/github/stars/subframe7536/maple-font?style=flat-square)
 - [alibaba/druid](https://github.com/alibaba/druid) - The most feature-rich database connection pool for Java — built-in SQL monitoring, firewall, and performance analytics. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/druid?style=flat-square)
+- [seata/seata](https://github.com/seata/seata) - Easy-to-use, high-performance distributed transaction framework for microservices, supporting AT, TCC, Saga, and XA transaction modes. `Java` `EN` ![Stars](https://img.shields.io/github/stars/seata/seata?style=flat-square)
+- [youzan/vant](https://github.com/youzan/vant) - Lightweight, customizable Vue UI component library for mobile web apps from Youzan — the core library behind the team's vant-weapp Mini Program port. `Youzan` `Vue` `EN` ![Stars](https://img.shields.io/github/stars/youzan/vant?style=flat-square)
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - Flow control, circuit breaking, and system adaptive protection for microservices — battle-tested at Alibaba's Double 11 shopping festival. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/Sentinel?style=flat-square)
 - [didi/DoKit](https://github.com/didi/DoKit) - Full lifecycle efficiency platform for mobile R&D — performance monitoring, visual debugging, mock data, and API testing. `DiDi` `Java` `Kotlin` ![Stars](https://img.shields.io/github/stars/didi/DoKit?style=flat-square)
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - Lightweight Java auth framework covering login, permissions, OAuth2, SSO, and microservice authentication in one elegant API. `Dromara` `Java` ![Stars](https://img.shields.io/github/stars/dromara/Sa-Token?style=flat-square)
