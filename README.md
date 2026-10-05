@@ -39,10 +39,10 @@ Yet many of these projects remain invisible to international developers because 
 ## Contents
 
 **Learning**
-- [Learning & Education](#-learning--education) *(10)*
+- [Learning & Education](#-learning--education) *(12)*
 
 **AI**
-- [AI & Machine Learning](#-ai--machine-learning) *(20)*
+- [AI & Machine Learning](#-ai--machine-learning) *(21)*
 - [AI Applications & Chatbots](#-ai-applications--chatbots) *(6)*
 
 **Systems & Frameworks**
@@ -69,7 +69,9 @@ _Comprehensive learning resources, interview preparation, and programming guides
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - Monthly curated collection of interesting, beginner-friendly open-source projects across all languages. Think "Product Hunt for GitHub." `Python` ![Stars](https://img.shields.io/github/stars/521xueweihan/HelloGitHub?style=flat-square)
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - The definitive Java interview & backend development guide — covers fundamentals, distributed systems, high concurrency, and AI application development. `Java` ![Stars](https://img.shields.io/github/stars/Snailclimb/JavaGuide?style=flat-square)
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - Massive collection of free Chinese programming books covering nearly every language and framework. ![Stars](https://img.shields.io/github/stars/justjavac/free-programming-books-zh_CN?style=flat-square)
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - Open book on AI Agent design and engineering — covers agent memory, context engineering, multi-agent orchestration, and coding agents, with full text, a compiled PDF, and per-chapter companion code. `Python` ![Stars](https://img.shields.io/github/stars/bojieli/ai-agent-book?style=flat-square)
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - Deep-dive Spring Boot project with 60+ practical demo modules covering everything from basics to advanced integrations. `Java` ![Stars](https://img.shields.io/github/stars/xkcoding/spring-boot-demo?style=flat-square)
+- [sunface/rust-course](https://github.com/sunface/rust-course) - Comprehensive, actively updated Rust course covering the language from fundamentals through async, WASM, and AI-era tooling — one of the most popular Rust learning resources in the Chinese developer community. `Rust` ![Stars](https://img.shields.io/github/stars/sunface/rust-course?style=flat-square)
 - [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - The Chinese version of awesome-python — comprehensive Python resources including web frameworks, crawlers, data analysis, and ML libraries. `Python` ![Stars](https://img.shields.io/github/stars/jobbole/awesome-python-cn?style=flat-square)
 - [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 50 must-know data structure and algorithm implementations in multiple languages, designed to accompany a popular Chinese algorithms course. ![Stars](https://img.shields.io/github/stars/wangzheng0822/algo?style=flat-square)
 - [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) - Open book on AI infrastructure that derives LLM inference and training system design decisions from first-principles hardware constraints and quantitative analysis, with companion calculators and experiments. `Python` ![Stars](https://img.shields.io/github/stars/bojieli/ai-infra-book?style=flat-square)
@@ -102,6 +104,7 @@ _Large language models, NLP toolkits, OCR engines, and training frameworks from 
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - Shanghai AI Laboratory's open LLM series (InternLM through InternLM3) with strong reasoning ability and long-context support. `Shanghai AI Lab` `Python` `EN` ![Stars](https://img.shields.io/github/stars/InternLM/InternLM?style=flat-square)
 - [zai-org/GLM-5](https://github.com/zai-org/GLM-5) - Zhipu AI's frontier GLM-5 model series, tuned for agentic engineering and long-horizon coding tasks — the current flagship successor to the ChatGLM line. `Zhipu AI` `Python` `EN` ![Stars](https://img.shields.io/github/stars/zai-org/GLM-5?style=flat-square)
 - [baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2) - Open-source large language models (7B & 13B) with strong Chinese and multilingual capabilities. `Baichuan` `Python` ![Stars](https://img.shields.io/github/stars/baichuan-inc/Baichuan2?style=flat-square)
+- [Mininglamp-AI/Mano-P](https://github.com/Mininglamp-AI/Mano-P) - Open-source GUI-VLA agent for on-device desktop automation — ranks #1 on the specialized OSWorld benchmark (58.2%) and runs entirely locally on Apple M4 hardware, with no data leaving the device. `Mininglamp AI` `EN` ![Stars](https://img.shields.io/github/stars/Mininglamp-AI/Mano-P?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
