@@ -55,7 +55,7 @@ Yet many of these projects remain invisible to international developers because 
 - [Mobile Development](#-mobile-development) *(5)*
 - [Data & Database](#-data--database) *(3)*
 - [Security Tools](#-security-tools) *(3)*
-- [Content Management & Blogging](#-content-management--blogging) *(1)*
+- [Content Management & Blogging](#-content-management--blogging) *(3)*
 - [DevOps & Monitoring](#-devops--monitoring) *(2)*
 - [WeChat Ecosystem](#-wechat-ecosystem) *(11)*
 
@@ -222,6 +222,8 @@ _Penetration testing and web application security tools._
 _Website builders and content management systems._
 
 - [halo-dev/halo](https://github.com/halo-dev/halo) - Powerful, easy-to-use open source website builder — from personal blogs and knowledge bases to enterprise sites. Rich plugin and theme ecosystem. `Java` `EN` ![Stars](https://img.shields.io/github/stars/halo-dev/halo?style=flat-square)
+- [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - AI-powered open-source knowledge base builder from security vendor Chaitin — generates product docs, technical docs, FAQs, and blogs with built-in AI writing, Q&A, and search. `Chaitin` `TypeScript` ![Stars](https://img.shields.io/github/stars/chaitin/PandaWiki?style=flat-square)
+- [liangliangyy/DjangoBlog](https://github.com/liangliangyy/DjangoBlog) - High-performance Django blogging platform with Markdown support, Elasticsearch/Whoosh full-text search, social login, Redis caching, and a plugin system. `Python` ![Stars](https://img.shields.io/github/stars/liangliangyy/DjangoBlog?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
