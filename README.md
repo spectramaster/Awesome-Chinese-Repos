@@ -47,9 +47,9 @@ Yet many of these projects remain invisible to international developers because 
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
-- [Developer Tools & Libraries](#-developer-tools--libraries) *(14)*
+- [Developer Tools & Libraries](#-developer-tools--libraries) *(16)*
 - [Web Scraping & Data Collection](#-web-scraping--data-collection) *(3)*
-- [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(5)*
+- [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(6)*
 
 **Platforms**
 - [Mobile Development](#-mobile-development) *(5)*
@@ -146,12 +146,14 @@ _Battle-tested libraries and diagnostic tools from Alibaba, Dromara, and DiDi �
 
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - Enterprise-class UI design language and React component library from Ant Group — 70+ high-quality components powering countless production applications worldwide. `Ant Group` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/ant-design/ant-design?style=flat-square)
 - [apache/echarts](https://github.com/apache/echarts) - Powerful, highly customizable charting and data visualization library, originally built by Baidu engineers and now a top-level Apache Software Foundation project. `Baidu` `JavaScript` `EN` ![Stars](https://img.shields.io/github/stars/apache/echarts?style=flat-square)
+- [iamkun/dayjs](https://github.com/iamkun/dayjs) - 2KB immutable date-time library with a Moment.js-compatible API for parsing, formatting, and manipulating dates — zero dependencies, used across countless JavaScript and TypeScript projects. `JavaScript` `EN` ![Stars](https://img.shields.io/github/stars/iamkun/dayjs?style=flat-square)
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Java diagnostic tool for production — inspect class loading, trace method execution, monitor JVM metrics, and hot-swap code without restarting. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/arthas?style=flat-square)
 - [alibaba/nacos](https://github.com/alibaba/nacos) - Dynamic service discovery, configuration management, and service management platform for building cloud-native applications. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/nacos?style=flat-square)
 - [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - A comprehensive Java utility library — one dependency replacing dozens of common libraries (date/time, crypto, HTTP, IO, JSON, and more). `Java` `EN` ![Stars](https://img.shields.io/github/stars/chinabugotech/hutool?style=flat-square)
 - [alibaba/canal](https://github.com/alibaba/canal) - MySQL binlog incremental subscription & consumption — enables real-time data sync between MySQL and other datastores (ES, Redis, MQ). `Alibaba` `Java` ![Stars](https://img.shields.io/github/stars/alibaba/canal?style=flat-square)
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Open-source monospace programming font with rounded corners, ligatures, and Nerd Font icons, tuned for a precise 2:1 Chinese-English character width ratio and fine-grained customization. `EN` ![Stars](https://img.shields.io/github/stars/subframe7536/maple-font?style=flat-square)
 - [alibaba/druid](https://github.com/alibaba/druid) - The most feature-rich database connection pool for Java — built-in SQL monitoring, firewall, and performance analytics. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/druid?style=flat-square)
+- [element-plus/element-plus](https://github.com/element-plus/element-plus) - Vue 3 UI component library from the Element team (originally built at Eleme) — the actively maintained successor to the Vue 2-era Element UI, with 80+ components and built-in theming. `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/element-plus/element-plus?style=flat-square)
 - [apache/incubator-seata](https://github.com/apache/incubator-seata) - Easy-to-use, high-performance distributed transaction framework for microservices, supporting AT, TCC, Saga, and XA transaction modes. Originally built at Alibaba, now incubating at the Apache Software Foundation. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/apache/incubator-seata?style=flat-square)
 - [youzan/vant](https://github.com/youzan/vant) - Lightweight, customizable Vue UI component library for mobile web apps from Youzan — the core library behind the team's vant-weapp Mini Program port. `Youzan` `Vue` `EN` ![Stars](https://img.shields.io/github/stars/youzan/vant?style=flat-square)
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - Flow control, circuit breaking, and system adaptive protection for microservices — battle-tested at Alibaba's Double 11 shopping festival. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/Sentinel?style=flat-square)
@@ -180,6 +182,7 @@ _Related: [Developer Tools & Libraries](#-developer-tools--libraries)_
 - [fatedier/frp](https://github.com/fatedier/frp) - Fast reverse proxy — expose local servers behind NAT/firewall to the internet. Supports TCP, UDP, HTTP, HTTPS with dashboard. `Go` `EN` ![Stars](https://img.shields.io/github/stars/fatedier/frp?style=flat-square)
 - [apache/dubbo](https://github.com/apache/dubbo) - High-performance RPC and microservices framework originally built at Alibaba, now a top-level Apache project supporting service governance across multiple languages. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/apache/dubbo?style=flat-square)
 - [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - Cloud-native version of ruoyi-vue-pro using Spring Cloud Alibaba + MyBatis Plus. Full microservice architecture with SaaS support. `Java` ![Stars](https://img.shields.io/github/stars/YunaiV/yudao-cloud?style=flat-square)
+- [openresty/openresty](https://github.com/openresty/openresty) - Scriptable web platform that bundles Nginx with LuaJIT — created at Taobao and now widely used for API gateways, dynamic request routing, and CDN/edge logic. `C` `EN` ![Stars](https://img.shields.io/github/stars/openresty/openresty?style=flat-square)
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - Self-hosted SSL certificate automation — ACME issuance, deployment, renewal, and monitoring with visual dashboard. `Go` ![Stars](https://img.shields.io/github/stars/certimate-go/certimate?style=flat-square)
 - [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - Production-ready Gin API framework with CORS, JWT, Zap logging, Prometheus metrics, Swagger docs, and gRPC support. `Go` ![Stars](https://img.shields.io/github/stars/xinliangnote/go-gin-api?style=flat-square)
 
