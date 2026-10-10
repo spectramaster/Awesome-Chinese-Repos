@@ -47,7 +47,7 @@ Yet many of these projects remain invisible to international developers because 
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
-- [Developer Tools & Libraries](#-developer-tools--libraries) *(16)*
+- [Developer Tools & Libraries](#-developer-tools--libraries) *(18)*
 - [Web Scraping & Data Collection](#-web-scraping--data-collection) *(3)*
 - [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(6)*
 
@@ -57,7 +57,7 @@ Yet many of these projects remain invisible to international developers because 
 - [Security Tools](#-security-tools) *(3)*
 - [Content Management & Blogging](#-content-management--blogging) *(3)*
 - [DevOps & Monitoring](#-devops--monitoring) *(2)*
-- [WeChat Ecosystem](#-wechat-ecosystem) *(11)*
+- [WeChat Ecosystem](#-wechat-ecosystem) *(12)*
 
 ---
 
@@ -159,6 +159,8 @@ _Battle-tested libraries and diagnostic tools from Alibaba, Dromara, and DiDi �
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - Flow control, circuit breaking, and system adaptive protection for microservices — battle-tested at Alibaba's Double 11 shopping festival. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/Sentinel?style=flat-square)
 - [didi/DoKit](https://github.com/didi/DoKit) - Full lifecycle efficiency platform for mobile R&D — performance monitoring, visual debugging, mock data, and API testing. `DiDi` `Java` `Kotlin` ![Stars](https://img.shields.io/github/stars/didi/DoKit?style=flat-square)
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - Lightweight Java auth framework covering login, permissions, OAuth2, SSO, and microservice authentication in one elegant API. `Dromara` `Java` ![Stars](https://img.shields.io/github/stars/dromara/Sa-Token?style=flat-square)
+- [larksuite/cli](https://github.com/larksuite/cli) - Official CLI for Lark/Feishu, ByteDance's enterprise collaboration suite — 200+ commands covering Messenger, Docs, Base, Sheets, and Calendar, with built-in AI Agent skills for tool-calling workflows. `ByteDance` `Go` `EN` ![Stars](https://img.shields.io/github/stars/larksuite/cli?style=flat-square)
+- [justauth/JustAuth](https://github.com/justauth/JustAuth) - Unified third-party login SDK covering 30+ platforms behind one simple API — including WeChat, Alipay, Weibo, QQ, DingTalk, and Feishu alongside global providers like GitHub, Google, and Slack. `Java` ![Stars](https://img.shields.io/github/stars/justauth/JustAuth?style=flat-square)
 - [alibaba/DataX](https://github.com/alibaba/DataX) - Offline data synchronization tool for heterogeneous data sources — supports MySQL, Oracle, HDFS, Hive, and 20+ connectors. `Alibaba` `Java` ![Stars](https://img.shields.io/github/stars/alibaba/DataX?style=flat-square)
 
 **[⬆ back to top](#contents)**
@@ -245,17 +247,18 @@ _China's WeChat platform (1.3B+ users) has a unique developer ecosystem with Min
 
 _Related: [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels)_
 
+- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - AI-driven technology radar for WeChat Mini Programs — tracks framework and tooling trends, assists with tech-stack selection, and diagnoses migration paths across the mini-program ecosystem. `TypeScript` ![Stars](https://img.shields.io/github/stars/justjavac/wechat-miniapp-radar?style=flat-square)
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - Vue.js-based framework for writing an app once and deploying it to iOS, Android, Web, and WeChat/Alipay/Baidu/ByteDance/QQ mini programs from a single codebase. `DCloud` `Vue` ![Stars](https://img.shields.io/github/stars/dcloudio/uni-app?style=flat-square)
-- [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for building WeChat (and WhatsApp, WeCom, Lark) chatbots in as few as six lines of code, with bindings for JavaScript, Python, Go, and Java. `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/wechaty/wechaty?style=flat-square)
 - [NervJS/taro](https://github.com/NervJS/taro) - Open cross-platform, cross-framework solution for building WeChat/Alipay/Baidu/ByteDance/QQ mini programs, H5, and React Native apps using React or Vue syntax. `TypeScript` ![Stars](https://img.shields.io/github/stars/NervJS/taro?style=flat-square)
-- [Tencent/vConsole](https://github.com/Tencent/vConsole) - Lightweight, framework-agnostic front-end debugging panel for mobile web pages — the official debugging tool bundled into WeChat Mini Programs, with log, network, element, and storage inspectors. `Tencent` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/vConsole?style=flat-square)
 - [binarywang/WxJava](https://github.com/binarywang/WxJava) - Comprehensive Java SDK for WeChat backend development — covers official accounts, mini programs, WeChat Pay, enterprise WeChat, video channels, and the open platform. `Java` ![Stars](https://img.shields.io/github/stars/binarywang/WxJava?style=flat-square)
 - [Tencent/weui](https://github.com/Tencent/weui) - Official UI component library from the WeChat design team — buttons, dialogs, toasts, and other widgets styled to match native WeChat mobile web and mini program interfaces. `Tencent` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/weui?style=flat-square)
-- [Tencent/kbone](https://github.com/Tencent/kbone) - Official WeChat team solution for isomorphic web/Mini Program development — simulates a browser environment so existing Vue/React/Preact web code can run inside a Mini Program with minimal changes. `Tencent` `JavaScript` ![Stars](https://img.shields.io/github/stars/Tencent/kbone?style=flat-square)
+- [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for building WeChat (and WhatsApp, WeCom, Lark) chatbots in as few as six lines of code, with bindings for JavaScript, Python, Go, and Java. `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/wechaty/wechaty?style=flat-square)
 - [linlinjava/litemall](https://github.com/linlinjava/litemall) - Full-stack mall with WeChat Mini Program storefront — great example of WeChat commerce integration. `Java` `Vue` *(Also in [Full-Stack Systems](#-full-stack-systems--admin-panels))* ![Stars](https://img.shields.io/github/stars/linlinjava/litemall?style=flat-square)
 - [youzan/vant-weapp](https://github.com/youzan/vant-weapp) - Lightweight, reliable UI component library for WeChat Mini Programs, ported from Youzan's popular Vant design system — 60+ ready-made components. `Youzan` `JavaScript` ![Stars](https://img.shields.io/github/stars/youzan/vant-weapp?style=flat-square)
+- [Tencent/vConsole](https://github.com/Tencent/vConsole) - Lightweight, framework-agnostic front-end debugging panel for mobile web pages — the official debugging tool bundled into WeChat Mini Programs, with log, network, element, and storage inspectors. `Tencent` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/vConsole?style=flat-square)
 - [w7corp/easywechat](https://github.com/w7corp/easywechat) - Widely-used PHP SDK for WeChat integration — official accounts, mini programs, WeChat Pay, and the open platform, distilled into a simple, consistent API. `PHP` ![Stars](https://img.shields.io/github/stars/w7corp/easywechat?style=flat-square)
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - Automated WeChat Mini Program decompilation tool — for security assessment, reverse engineering, and debugging. `Go` ![Stars](https://img.shields.io/github/stars/Ackites/KillWxapkg?style=flat-square)
+- [Tencent/kbone](https://github.com/Tencent/kbone) - Official WeChat team solution for isomorphic web/Mini Program development — simulates a browser environment so existing Vue/React/Preact web code can run inside a Mini Program with minimal changes. `Tencent` `JavaScript` ![Stars](https://img.shields.io/github/stars/Tencent/kbone?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
