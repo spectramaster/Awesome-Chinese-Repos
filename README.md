@@ -42,7 +42,7 @@ Yet many of these projects remain invisible to international developers because 
 - [Learning & Education](#-learning--education) *(12)*
 
 **AI**
-- [AI & Machine Learning](#-ai--machine-learning) *(21)*
+- [AI & Machine Learning](#-ai--machine-learning) *(22)*
 - [AI Applications & Chatbots](#-ai-applications--chatbots) *(6)*
 
 **Systems & Frameworks**
@@ -57,7 +57,7 @@ Yet many of these projects remain invisible to international developers because 
 - [Security Tools](#-security-tools) *(3)*
 - [Content Management & Blogging](#-content-management--blogging) *(3)*
 - [DevOps & Monitoring](#-devops--monitoring) *(2)*
-- [WeChat Ecosystem](#-wechat-ecosystem) *(12)*
+- [WeChat Ecosystem](#-wechat-ecosystem) *(13)*
 
 ---
 
@@ -92,6 +92,7 @@ _Large language models, NLP toolkits, OCR engines, and training frameworks from 
 - [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - Tsinghua University-incubated open bilingual (Chinese-English) chat model. Runs on consumer GPUs with INT4 quantization (6GB VRAM); the team's newer GLM-4 models continue the line. `Tsinghua` `Python` ![Stars](https://img.shields.io/github/stars/zai-org/ChatGLM-6B?style=flat-square)
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - Comprehensive multilingual NLP toolkit covering Chinese word segmentation, POS tagging, named entity recognition, dependency parsing, and semantic analysis — one of the most widely used production-grade Chinese NLP libraries. `Python` ![Stars](https://img.shields.io/github/stars/hankcs/HanLP?style=flat-square)
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Alibaba's latest Qwen large language model series — strong multilingual performance, code generation, and math reasoning, with thinking/non-thinking mode switching and up to 1M-token context support. `Alibaba` `Python` `EN` ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=flat-square)
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Open-source AI coding agent for the terminal from Alibaba's Qwen team — works across terminal, desktop, IDE plugins, and chat integrations, with support for OpenAI, Anthropic, Gemini, and Qwen APIs plus local models. `Alibaba` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/QwenLM/qwen-code?style=flat-square)
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - Pocket-sized multimodal LLM series built for efficient on-device deployment — runs image, video, and speech understanding directly on phones. `OpenBMB` `Python` `EN` ![Stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=flat-square)
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - High-performance neural network inference framework optimized for mobile and embedded platforms — deploys deep learning models with no third-party dependencies, widely used for on-device AI. `Tencent` `C++` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/ncnn?style=flat-square)
 - [modelscope/FunASR](https://github.com/modelscope/FunASR) - Alibaba's production-grade speech toolkit — streaming and offline ASR, voice activity detection, punctuation restoration, and speaker diarization, with OpenAI-compatible serving. `Alibaba` `Python` `EN` ![Stars](https://img.shields.io/github/stars/modelscope/FunASR?style=flat-square)
@@ -258,6 +259,7 @@ _Related: [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels
 - [Tencent/vConsole](https://github.com/Tencent/vConsole) - Lightweight, framework-agnostic front-end debugging panel for mobile web pages — the official debugging tool bundled into WeChat Mini Programs, with log, network, element, and storage inspectors. `Tencent` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/vConsole?style=flat-square)
 - [w7corp/easywechat](https://github.com/w7corp/easywechat) - Widely-used PHP SDK for WeChat integration — official accounts, mini programs, WeChat Pay, and the open platform, distilled into a simple, consistent API. `PHP` ![Stars](https://img.shields.io/github/stars/w7corp/easywechat?style=flat-square)
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - Automated WeChat Mini Program decompilation tool — for security assessment, reverse engineering, and debugging. `Go` ![Stars](https://img.shields.io/github/stars/Ackites/KillWxapkg?style=flat-square)
+- [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli) - Command-line tool for WeCom (Enterprise WeChat) covering messaging, email, documents, calendar, meetings, and contacts — built with Agent Skills support so both humans and AI agents can drive it from a terminal. `Rust` ![Stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=flat-square)
 - [Tencent/kbone](https://github.com/Tencent/kbone) - Official WeChat team solution for isomorphic web/Mini Program development — simulates a browser environment so existing Vue/React/Preact web code can run inside a Mini Program with minimal changes. `Tencent` `JavaScript` ![Stars](https://img.shields.io/github/stars/Tencent/kbone?style=flat-square)
 
 **[⬆ back to top](#contents)**
