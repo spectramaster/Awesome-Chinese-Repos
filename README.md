@@ -49,7 +49,7 @@ Yet many of these projects remain invisible to international developers because 
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
 - [Developer Tools & Libraries](#-developer-tools--libraries) *(18)*
 - [Web Scraping & Data Collection](#-web-scraping--data-collection) *(3)*
-- [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(6)*
+- [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(5)*
 
 **Platforms**
 - [Mobile Development](#-mobile-development) *(5)*
@@ -187,7 +187,6 @@ _Related: [Developer Tools & Libraries](#-developer-tools--libraries)_
 - [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - Cloud-native version of ruoyi-vue-pro using Spring Cloud Alibaba + MyBatis Plus. Full microservice architecture with SaaS support. `Java` ![Stars](https://img.shields.io/github/stars/YunaiV/yudao-cloud?style=flat-square)
 - [openresty/openresty](https://github.com/openresty/openresty) - Scriptable web platform that bundles Nginx with LuaJIT — created at Taobao and now widely used for API gateways, dynamic request routing, and CDN/edge logic. `C` `EN` ![Stars](https://img.shields.io/github/stars/openresty/openresty?style=flat-square)
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - Self-hosted SSL certificate automation — ACME issuance, deployment, renewal, and monitoring with visual dashboard. `Go` ![Stars](https://img.shields.io/github/stars/certimate-go/certimate?style=flat-square)
-- [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - Production-ready Gin API framework with CORS, JWT, Zap logging, Prometheus metrics, Swagger docs, and gRPC support. `Go` ![Stars](https://img.shields.io/github/stars/xinliangnote/go-gin-api?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
