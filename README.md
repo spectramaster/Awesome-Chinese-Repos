@@ -43,7 +43,7 @@ Yet many of these projects remain invisible to international developers because 
 
 **AI**
 - [AI & Machine Learning](#-ai--machine-learning) *(22)*
-- [AI Applications & Chatbots](#-ai-applications--chatbots) *(6)*
+- [AI Applications & Chatbots](#-ai-applications--chatbots) *(7)*
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
@@ -55,8 +55,8 @@ Yet many of these projects remain invisible to international developers because 
 - [Mobile Development](#-mobile-development) *(5)*
 - [Data & Database](#-data--database) *(3)*
 - [Security Tools](#-security-tools) *(3)*
-- [Content Management & Blogging](#-content-management--blogging) *(3)*
-- [DevOps & Monitoring](#-devops--monitoring) *(2)*
+- [Content Management & Blogging](#-content-management--blogging) *(4)*
+- [DevOps & Monitoring](#-devops--monitoring) *(3)*
 - [WeChat Ecosystem](#-wechat-ecosystem) *(13)*
 
 ---
@@ -120,6 +120,7 @@ _Ready-to-deploy AI application platforms and chat interfaces built by Chinese t
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - Open-source RAG engine built on deep document understanding, fusing retrieval with agent capabilities to power production knowledge-base and RAG applications. `InfiniFlow` `Python` `EN` ![Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square)
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - Cross-platform AI chat client with no API key required — sign up and chat with GPT-5, Claude, Gemini, DeepSeek, and 100+ other models. Available on Web, iOS, macOS, Android, Linux, and Windows. `TypeScript` ![Stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=flat-square)
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - AI agent operations platform (formerly the LobeChat chat UI) — hire, schedule, and manage a team of AI agents with a knowledge base and multi-provider support. `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square)
+- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Self-evolving personal AI agent harness with task planning, tools/skills, and memory — connects to WeChat, Feishu, DingTalk, and other chat channels; formerly the widely-used `chatgpt-on-wechat` bot framework. `Python` `EN` ![Stars](https://img.shields.io/github/stars/zhayujie/CowAgent?style=flat-square)
 - [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - Self-hosted, privacy-first AI assistant platform from Tencent — multi-user, multi-agent, with a web dashboard, CLI, and chat integrations for Feishu and Discord. `Tencent` `Python` `EN` ![Stars](https://img.shields.io/github/stars/TencentCloud/Octop?style=flat-square)
 - [ZJU-REAL/Easel](https://github.com/ZJU-REAL/Easel) - Open-source AI content workbench for social media creators — trend discovery, script/visual/video generation, and direct publishing across Xiaohongshu, Douyin, Bilibili, Zhihu, and WeChat, with persistent creator profiles. From Zhejiang University and Peking University research labs. `Python` ![Stars](https://img.shields.io/github/stars/ZJU-REAL/Easel?style=flat-square)
 
@@ -229,6 +230,7 @@ _Penetration testing and web application security tools._
 
 _Website builders and content management systems._
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Privacy-first, self-hosted personal knowledge management app combining block-based Markdown notes with bidirectional linking and a built-in outliner — from China's B3log open-source community. `TypeScript` `Go` `EN` ![Stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=flat-square)
 - [halo-dev/halo](https://github.com/halo-dev/halo) - Powerful, easy-to-use open source website builder — from personal blogs and knowledge bases to enterprise sites. Rich plugin and theme ecosystem. `Java` `EN` ![Stars](https://img.shields.io/github/stars/halo-dev/halo?style=flat-square)
 - [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - AI-powered open-source knowledge base builder from security vendor Chaitin — generates product docs, technical docs, FAQs, and blogs with built-in AI writing, Q&A, and search. `Chaitin` `TypeScript` ![Stars](https://img.shields.io/github/stars/chaitin/PandaWiki?style=flat-square)
 - [liangliangyy/DjangoBlog](https://github.com/liangliangyy/DjangoBlog) - High-performance Django blogging platform with Markdown support, Elasticsearch/Whoosh full-text search, social login, Redis caching, and a plugin system. `Python` ![Stars](https://img.shields.io/github/stars/liangliangyy/DjangoBlog?style=flat-square)
@@ -239,6 +241,7 @@ _Website builders and content management systems._
 
 _Infrastructure monitoring and operations tools._
 
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - Modern open-source Linux server management panel — website, database, container, and backup management with a built-in AI ops assistant, from FIT2CLOUD (also behind Halo and JumpServer). `FIT2CLOUD` `Go` `EN` ![Stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=flat-square)
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - Real-time monitoring system — agentless monitoring for servers, databases, middleware, cloud native, and custom metrics. Graduated from the Dromara community to the Apache Software Foundation. `Java` `EN` ![Stars](https://img.shields.io/github/stars/apache/hertzbeat?style=flat-square)
 - [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Comprehensive Linux monitoring: hardware, CPU, memory, disk I/O, GPU, Docker, Kubernetes, network traffic, processes, and log monitoring with alerting. `Java` ![Stars](https://img.shields.io/github/stars/tianshiyeben/wgcloud?style=flat-square)
 
