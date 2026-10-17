@@ -43,16 +43,16 @@ Yet many of these projects remain invisible to international developers because 
 
 **AI**
 - [AI & Machine Learning](#-ai--machine-learning) *(22)*
-- [AI Applications & Chatbots](#-ai-applications--chatbots) *(7)*
+- [AI Applications & Chatbots](#-ai-applications--chatbots) *(8)*
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
 - [Developer Tools & Libraries](#-developer-tools--libraries) *(18)*
-- [Web Scraping & Data Collection](#-web-scraping--data-collection) *(3)*
+- [Web Scraping & Data Collection](#-web-scraping--data-collection) *(4)*
 - [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(5)*
 
 **Platforms**
-- [Mobile Development](#-mobile-development) *(5)*
+- [Mobile Development](#-mobile-development) *(6)*
 - [Data & Database](#-data--database) *(3)*
 - [Security Tools](#-security-tools) *(3)*
 - [Content Management & Blogging](#-content-management--blogging) *(4)*
@@ -121,6 +121,7 @@ _Ready-to-deploy AI application platforms and chat interfaces built by Chinese t
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - Cross-platform AI chat client with no API key required — sign up and chat with GPT-5, Claude, Gemini, DeepSeek, and 100+ other models. Available on Web, iOS, macOS, Android, Linux, and Windows. `TypeScript` ![Stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=flat-square)
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - AI agent operations platform (formerly the LobeChat chat UI) — hire, schedule, and manage a team of AI agents with a knowledge base and multi-provider support. `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square)
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Self-evolving personal AI agent harness with task planning, tools/skills, and memory — connects to WeChat, Feishu, DingTalk, and other chat channels; formerly the widely-used `chatgpt-on-wechat` bot framework. `Python` `EN` ![Stars](https://img.shields.io/github/stars/zhayujie/CowAgent?style=flat-square)
+- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots — connects LLMs to Discord, Slack, Telegram, WeChat, WeCom, Lark, and DingTalk from one codebase, with a plugin marketplace and n8n/Dify workflow integrations. `Python` `EN` ![Stars](https://img.shields.io/github/stars/langbot-app/LangBot?style=flat-square)
 - [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - Self-hosted, privacy-first AI assistant platform from Tencent — multi-user, multi-agent, with a web dashboard, CLI, and chat integrations for Feishu and Discord. `Tencent` `Python` `EN` ![Stars](https://img.shields.io/github/stars/TencentCloud/Octop?style=flat-square)
 - [ZJU-REAL/Easel](https://github.com/ZJU-REAL/Easel) - Open-source AI content workbench for social media creators — trend discovery, script/visual/video generation, and direct publishing across Xiaohongshu, Douyin, Bilibili, Zhihu, and WeChat, with persistent creator profiles. From Zhejiang University and Peking University research labs. `Python` ![Stars](https://img.shields.io/github/stars/ZJU-REAL/Easel?style=flat-square)
 
@@ -177,6 +178,7 @@ _Crawlers and automation tools for extracting data from Chinese (and global) pla
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - Multi-platform social media crawler covering Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, and Zhihu — uses browser automation instead of reverse-engineering each platform's signing algorithm. `Python` ![Stars](https://img.shields.io/github/stars/NanmiCoder/MediaCrawler?style=flat-square)
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - Visual, no-code web crawler — design and run browser automation and scraping tasks by pointing and clicking instead of writing code. `JavaScript` `EN` ![Stars](https://img.shields.io/github/stars/NaiboWang/EasySpider?style=flat-square)
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - Self-hosted REST API for scraping and downloading watermark-free videos and metadata from Douyin and TikTok, with an MCP server and CLI. `Python` `EN` ![Stars](https://img.shields.io/github/stars/Evil0ctal/Douyin_TikTok_Download_API?style=flat-square)
+- [putyy/res-downloader](https://github.com/putyy/res-downloader) - Cross-platform desktop tool for downloading watermark-free video, audio, and images from WeChat Channels, Mini Programs, Douyin, Kuaishou, and Xiaohongshu. `Go` ![Stars](https://img.shields.io/github/stars/putyy/res-downloader?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
@@ -198,6 +200,7 @@ _Related: [Developer Tools & Libraries](#-developer-tools--libraries)_
 
 _Android components and mobile development tools._
 
+- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - Android app that monitors SMS, calls, and app notifications and forwards them by rule to DingTalk, Feishu, WeCom bots, email, Bark, webhooks, and Telegram — a staple tool for repurposing a spare phone. `Kotlin` ![Stars](https://img.shields.io/github/stars/pppscn/SmsForwarder?style=flat-square)
 - [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - The most versatile pull-to-refresh layout for Android — supports any scrollable view with 30+ custom header/footer styles. `Java` ![Stars](https://img.shields.io/github/stars/scwang90/SmartRefreshLayout?style=flat-square)
 - [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - Feature-rich Android video player supporting IJKplayer, ExoPlayer, and MediaPlayer — with HTTPS, danmaku (bullet comments), and 16K support. `Java` `Kotlin` ![Stars](https://img.shields.io/github/stars/CarGuo/GSYVideoPlayer?style=flat-square)
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - Efficient, small mobile key-value storage framework developed by WeChat — used in production across Android, iOS, macOS, Windows, and cross-platform via Flutter/React Native bindings. `Tencent` `C++` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/MMKV?style=flat-square)
