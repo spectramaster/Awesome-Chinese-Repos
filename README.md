@@ -39,10 +39,10 @@ Yet many of these projects remain invisible to international developers because 
 ## Contents
 
 **Learning**
-- [Learning & Education](#-learning--education) *(12)*
+- [Learning & Education](#-learning--education) *(13)*
 
 **AI**
-- [AI & Machine Learning](#-ai--machine-learning) *(22)*
+- [AI & Machine Learning](#-ai--machine-learning) *(24)*
 - [AI Applications & Chatbots](#-ai-applications--chatbots) *(8)*
 
 **Systems & Frameworks**
@@ -87,14 +87,14 @@ _Large language models, NLP toolkits, OCR engines, and training frameworks from 
 
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - DeepSeek's flagship open-source model — Mixture-of-Experts architecture achieving top-tier performance at a fraction of the training cost. `DeepSeek` `Python` `EN` ![Stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=flat-square)
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Lightweight OCR and document-parsing toolkit that converts PDFs and images into structured data for LLM pipelines, supporting 100+ languages. `Baidu` `Python` `EN` ![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=flat-square)
-- [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - The most comprehensive Chinese NLP resource collection: sentiment lexicons, named entity recognition, text generation, knowledge graphs, and 50+ datasets. `Python` ![Stars](https://img.shields.io/github/stars/fighting41love/funNLP?style=flat-square)
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - ByteDance's open-source long-horizon SuperAgent harness — sandboxed execution, persistent memory, skills, and sub-agent orchestration for research, coding, and content-creation tasks. `ByteDance` `Python` `EN` ![Stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square)
+- [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - The most comprehensive Chinese NLP resource collection: sentiment lexicons, named entity recognition, text generation, knowledge graphs, and 50+ datasets. `Python` ![Stars](https://img.shields.io/github/stars/fighting41love/funNLP?style=flat-square)
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster, and more accessible — distributed training framework supporting parallelism strategies. `Python` `EN` ![Stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=flat-square)
 - [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - Tsinghua University-incubated open bilingual (Chinese-English) chat model. Runs on consumer GPUs with INT4 quantization (6GB VRAM); the team's newer GLM-4 models continue the line. `Tsinghua` `Python` ![Stars](https://img.shields.io/github/stars/zai-org/ChatGLM-6B?style=flat-square)
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - ByteDance's open-source multimodal AI agent stack — Agent TARS and UI-TARS Desktop pair a vision-language model with computer/browser control to complete natural-language tasks on screen. `ByteDance` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop?style=flat-square)
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - Comprehensive multilingual NLP toolkit covering Chinese word segmentation, POS tagging, named entity recognition, dependency parsing, and semantic analysis — one of the most widely used production-grade Chinese NLP libraries. `Python` ![Stars](https://img.shields.io/github/stars/hankcs/HanLP?style=flat-square)
-- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Alibaba's latest Qwen large language model series — strong multilingual performance, code generation, and math reasoning, with thinking/non-thinking mode switching and up to 1M-token context support. `Alibaba` `Python` `EN` ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=flat-square)
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Open-source AI coding agent for the terminal from Alibaba's Qwen team — works across terminal, desktop, IDE plugins, and chat integrations, with support for OpenAI, Anthropic, Gemini, and Qwen APIs plus local models. `Alibaba` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/QwenLM/qwen-code?style=flat-square)
+- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Alibaba's latest Qwen large language model series — strong multilingual performance, code generation, and math reasoning, with thinking/non-thinking mode switching and up to 1M-token context support. `Alibaba` `Python` `EN` ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=flat-square)
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - Pocket-sized multimodal LLM series built for efficient on-device deployment — runs image, video, and speech understanding directly on phones. `OpenBMB` `Python` `EN` ![Stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=flat-square)
 - [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - Zhipu AI's open phone-agent framework — pairs a vision-language model with ADB/HDC automation to carry out natural-language tasks on Android and HarmonyOS devices. `Zhipu AI` `Python` ![Stars](https://img.shields.io/github/stars/zai-org/Open-AutoGLM?style=flat-square)
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - High-performance neural network inference framework optimized for mobile and embedded platforms — deploys deep learning models with no third-party dependencies, widely used for on-device AI. `Tencent` `C++` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/ncnn?style=flat-square)
@@ -267,8 +267,8 @@ _Related: [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels
 - [Tencent/vConsole](https://github.com/Tencent/vConsole) - Lightweight, framework-agnostic front-end debugging panel for mobile web pages — the official debugging tool bundled into WeChat Mini Programs, with log, network, element, and storage inspectors. `Tencent` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/vConsole?style=flat-square)
 - [w7corp/easywechat](https://github.com/w7corp/easywechat) - Widely-used PHP SDK for WeChat integration — official accounts, mini programs, WeChat Pay, and the open platform, distilled into a simple, consistent API. `PHP` ![Stars](https://img.shields.io/github/stars/w7corp/easywechat?style=flat-square)
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - Automated WeChat Mini Program decompilation tool — for security assessment, reverse engineering, and debugging. `Go` ![Stars](https://img.shields.io/github/stars/Ackites/KillWxapkg?style=flat-square)
-- [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli) - Command-line tool for WeCom (Enterprise WeChat) covering messaging, email, documents, calendar, meetings, and contacts — built with Agent Skills support so both humans and AI agents can drive it from a terminal. `Rust` ![Stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=flat-square)
 - [Tencent/kbone](https://github.com/Tencent/kbone) - Official WeChat team solution for isomorphic web/Mini Program development — simulates a browser environment so existing Vue/React/Preact web code can run inside a Mini Program with minimal changes. `Tencent` `JavaScript` ![Stars](https://img.shields.io/github/stars/Tencent/kbone?style=flat-square)
+- [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli) - Command-line tool for WeCom (Enterprise WeChat) covering messaging, email, documents, calendar, meetings, and contacts — built with Agent Skills support so both humans and AI agents can drive it from a terminal. `Rust` ![Stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
