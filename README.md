@@ -53,7 +53,7 @@ Yet many of these projects remain invisible to international developers because 
 
 **Platforms**
 - [Mobile Development](#-mobile-development) *(6)*
-- [Data & Database](#-data--database) *(3)*
+- [Data & Database](#-data--database) *(6)*
 - [Security Tools](#-security-tools) *(3)*
 - [Content Management & Blogging](#-content-management--blogging) *(4)*
 - [DevOps & Monitoring](#-devops--monitoring) *(3)*
@@ -215,8 +215,11 @@ _Android components and mobile development tools._
 _Distributed databases and data infrastructure — where Chinese engineering shines globally._
 
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Purpose-built vector database for AI applications — similarity search on billion-scale vectors for RAG, recommendation, and image search. `Zilliz` `Go` `EN` ![Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=flat-square)
-- [pingcap/tidb](https://github.com/pingcap/tidb) - Distributed SQL database with horizontal scalability, MySQL compatibility, and strong consistency. Handles hybrid OLTP & OLAP workloads. `PingCAP` `Go` `EN` ![Stars](https://img.shields.io/github/stars/pingcap/tidb?style=flat-square)
+- [pingcap/tidb](https://github.com/pingcap/tidb) - Distributed SQL database with horizontal scalability, MySQL compatibility, and strong consistency. Handles hybrid OLTP & OLAP workloads, with native vector search for agentic use cases. `PingCAP` `Go` `EN` ![Stars](https://img.shields.io/github/stars/pingcap/tidb?style=flat-square)
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, SQL-compatible time-series database purpose-built for IoT and Industrial IoT workloads, with built-in stream processing, caching, and data subscription. `TDengine` `C` `EN` ![Stars](https://img.shields.io/github/stars/taosdata/TDengine?style=flat-square)
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Distributed database middleware ecosystem — data sharding, read-write splitting, data encryption, and shadow database. Originally from JD.com. `JD.com` `Java` `EN` ![Stars](https://img.shields.io/github/stars/apache/shardingsphere?style=flat-square)
+- [apache/doris](https://github.com/apache/doris) - Real-time MPP analytical database unifying OLAP, lakehouse, and full-text/vector search in one engine — originally built at Baidu (as Palo) and now a top-level Apache Software Foundation project. `Baidu` `Java` `EN` ![Stars](https://img.shields.io/github/stars/apache/doris?style=flat-square)
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - Ant Group's unified distributed HTAP database — MySQL-compatible with native vector support, engineered to survive China's Double 11 shopping festival at extreme transaction scale. `Ant Group` `C++` `EN` ![Stars](https://img.shields.io/github/stars/oceanbase/oceanbase?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
