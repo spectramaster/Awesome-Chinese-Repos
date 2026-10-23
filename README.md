@@ -47,15 +47,15 @@ Yet many of these projects remain invisible to international developers because 
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
-- [Developer Tools & Libraries](#-developer-tools--libraries) *(19)*
+- [Developer Tools & Libraries](#-developer-tools--libraries) *(20)*
 - [Web Scraping & Data Collection](#-web-scraping--data-collection) *(4)*
 - [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(5)*
 
 **Platforms**
 - [Mobile Development](#-mobile-development) *(6)*
 - [Data & Database](#-data--database) *(6)*
-- [Security Tools](#-security-tools) *(3)*
-- [Content Management & Blogging](#-content-management--blogging) *(4)*
+- [Security Tools](#-security-tools) *(4)*
+- [Content Management & Blogging](#-content-management--blogging) *(5)*
 - [DevOps & Monitoring](#-devops--monitoring) *(3)*
 - [WeChat Ecosystem](#-wechat-ecosystem) *(13)*
 
@@ -154,6 +154,7 @@ _Related: [Backend Frameworks & Middleware](#-backend-frameworks--middleware), [
 _Battle-tested libraries and diagnostic tools from Alibaba, Dromara, and DiDi — forged in production at massive scale._
 
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - Enterprise-class UI design language and React component library from Ant Group — 70+ high-quality components powering countless production applications worldwide. `Ant Group` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/ant-design/ant-design?style=flat-square)
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - Turns a USB drive into a multiboot disk — copy multiple ISO, WIM, IMG, VHD(x), or EFI files onto it directly and pick which one to boot from a menu, no reformatting needed between OSes. `C` `EN` ![Stars](https://img.shields.io/github/stars/ventoy/Ventoy?style=flat-square)
 - [apache/echarts](https://github.com/apache/echarts) - Powerful, highly customizable charting and data visualization library, originally built by Baidu engineers and now a top-level Apache Software Foundation project. `Baidu` `JavaScript` `EN` ![Stars](https://img.shields.io/github/stars/apache/echarts?style=flat-square)
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - 2KB immutable date-time library with a Moment.js-compatible API for parsing, formatting, and manipulating dates — zero dependencies, used across countless JavaScript and TypeScript projects. `JavaScript` `EN` ![Stars](https://img.shields.io/github/stars/iamkun/dayjs?style=flat-square)
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Java diagnostic tool for production — inspect class loading, trace method execution, monitor JVM metrics, and hot-swap code without restarting. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/arthas?style=flat-square)
@@ -230,6 +231,7 @@ _Distributed databases and data infrastructure — where Chinese engineering shi
 
 _Penetration testing and web application security tools._
 
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - Open-source Privileged Access Management (PAM) platform giving DevOps and IT teams a unified, secure bastion-host gateway for accessing SSH, RDP, Kubernetes, databases, and more, now with AI-powered capabilities. `FIT2CLOUD` `Python` `EN` ![Stars](https://img.shields.io/github/stars/jumpserver/jumpserver?style=flat-square)
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - Self-hosted Web Application Firewall (WAF) powered by intelligent semantic analysis — simple to deploy, effective against web attacks. `Chaitin` `Go` `EN` ![Stars](https://img.shields.io/github/stars/chaitin/SafeLine?style=flat-square)
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - All-in-one intranet scanning tool — one-click automated vulnerability scanning for penetration testing. `Go` ![Stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square)
 - [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - AI-powered multi-agent platform for automated code vulnerability discovery — autonomous static analysis plus sandboxed PoC validation, with one-click setup and local LLM (Ollama) support. `Python` `EN` ![Stars](https://img.shields.io/github/stars/lintsinghua/DeepAudit?style=flat-square)
@@ -242,6 +244,7 @@ _Website builders and content management systems._
 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Privacy-first, self-hosted personal knowledge management app combining block-based Markdown notes with bidirectional linking and a built-in outliner — from China's B3log open-source community. `TypeScript` `Go` `EN` ![Stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=flat-square)
 - [halo-dev/halo](https://github.com/halo-dev/halo) - Powerful, easy-to-use open source website builder — from personal blogs and knowledge bases to enterprise sites. Rich plugin and theme ecosystem. `Java` `EN` ![Stars](https://img.shields.io/github/stars/halo-dev/halo?style=flat-square)
+- [apache/answer](https://github.com/apache/answer) - Q&A platform software for building a community forum, help center, or knowledge-management system at any scale — originally built by SegmentFault, China's largest developer Q&A community, now incubating at the Apache Software Foundation. `SegmentFault` `Go` `EN` ![Stars](https://img.shields.io/github/stars/apache/answer?style=flat-square)
 - [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - AI-powered open-source knowledge base builder from security vendor Chaitin — generates product docs, technical docs, FAQs, and blogs with built-in AI writing, Q&A, and search. `Chaitin` `TypeScript` ![Stars](https://img.shields.io/github/stars/chaitin/PandaWiki?style=flat-square)
 - [liangliangyy/DjangoBlog](https://github.com/liangliangyy/DjangoBlog) - High-performance Django blogging platform with Markdown support, Elasticsearch/Whoosh full-text search, social login, Redis caching, and a plugin system. `Python` ![Stars](https://img.shields.io/github/stars/liangliangyy/DjangoBlog?style=flat-square)
 
