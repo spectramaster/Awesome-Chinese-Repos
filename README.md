@@ -57,7 +57,7 @@ Yet many of these projects remain invisible to international developers because 
 - [Security Tools](#-security-tools) *(4)*
 - [Content Management & Blogging](#-content-management--blogging) *(5)*
 - [DevOps & Monitoring](#-devops--monitoring) *(3)*
-- [WeChat Ecosystem](#-wechat-ecosystem) *(13)*
+- [WeChat Ecosystem](#-wechat-ecosystem) *(16)*
 
 ---
 
@@ -276,9 +276,12 @@ _Related: [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels
 - [youzan/vant-weapp](https://github.com/youzan/vant-weapp) - Lightweight, reliable UI component library for WeChat Mini Programs, ported from Youzan's popular Vant design system — 60+ ready-made components. `Youzan` `JavaScript` ![Stars](https://img.shields.io/github/stars/youzan/vant-weapp?style=flat-square)
 - [Tencent/vConsole](https://github.com/Tencent/vConsole) - Lightweight, framework-agnostic front-end debugging panel for mobile web pages — the official debugging tool bundled into WeChat Mini Programs, with log, network, element, and storage inspectors. `Tencent` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/vConsole?style=flat-square)
 - [w7corp/easywechat](https://github.com/w7corp/easywechat) - Widely-used PHP SDK for WeChat integration — official accounts, mini programs, WeChat Pay, and the open platform, distilled into a simple, consistent API. `PHP` ![Stars](https://img.shields.io/github/stars/w7corp/easywechat?style=flat-square)
+- [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - Mature .NET SDK for the WeChat ecosystem (Senparc.Weixin) — covers official accounts, mini programs, mini games, WeChat Pay, and enterprise WeChat across .NET Framework and .NET Core/6+. `C#` ![Stars](https://img.shields.io/github/stars/JeffreySu/WeiXinMPSDK?style=flat-square)
+- [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - Canvas-based lucky-draw widget (wheel, grid, and slot-machine styles) — one codebase adapts to JS, Vue, React, Taro, UniApp, and WeChat Mini Programs. `TypeScript` ![Stars](https://img.shields.io/github/stars/buuing/lucky-canvas?style=flat-square)
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - Automated WeChat Mini Program decompilation tool — for security assessment, reverse engineering, and debugging. `Go` ![Stars](https://img.shields.io/github/stars/Ackites/KillWxapkg?style=flat-square)
 - [Tencent/kbone](https://github.com/Tencent/kbone) - Official WeChat team solution for isomorphic web/Mini Program development — simulates a browser environment so existing Vue/React/Preact web code can run inside a Mini Program with minimal changes. `Tencent` `JavaScript` ![Stars](https://img.shields.io/github/stars/Tencent/kbone?style=flat-square)
 - [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli) - Command-line tool for WeCom (Enterprise WeChat) covering messaging, email, documents, calendar, meetings, and contacts — built with Agent Skills support so both humans and AI agents can drive it from a terminal. `Rust` ![Stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=flat-square)
+- [ArtisanCloud/PowerWeChat](https://github.com/ArtisanCloud/PowerWeChat) - WeChat SDK for Go covering mini programs, WeChat Pay, WeCom (enterprise WeChat), and official accounts behind one consistent API. `Go` ![Stars](https://img.shields.io/github/stars/ArtisanCloud/PowerWeChat?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
