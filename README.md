@@ -39,11 +39,11 @@ Yet many of these projects remain invisible to international developers because 
 ## Contents
 
 **Learning**
-- [Learning & Education](#-learning--education) *(13)*
+- [Learning & Education](#-learning--education) *(14)*
 
 **AI**
 - [AI & Machine Learning](#-ai--machine-learning) *(24)*
-- [AI Applications & Chatbots](#-ai-applications--chatbots) *(8)*
+- [AI Applications & Chatbots](#-ai-applications--chatbots) *(10)*
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
@@ -170,9 +170,9 @@ _Battle-tested libraries and diagnostic tools from Alibaba, Dromara, and DiDi �
 - [didi/DoKit](https://github.com/didi/DoKit) - Full lifecycle efficiency platform for mobile R&D — performance monitoring, visual debugging, mock data, and API testing. `DiDi` `Java` `Kotlin` ![Stars](https://img.shields.io/github/stars/didi/DoKit?style=flat-square)
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - Lightweight Java auth framework covering login, permissions, OAuth2, SSO, and microservice authentication in one elegant API. `Dromara` `Java` ![Stars](https://img.shields.io/github/stars/dromara/Sa-Token?style=flat-square)
 - [larksuite/cli](https://github.com/larksuite/cli) - Official CLI for Lark/Feishu, ByteDance's enterprise collaboration suite — 200+ commands covering Messenger, Docs, Base, Sheets, and Calendar, with built-in AI Agent skills for tool-calling workflows. `ByteDance` `Go` `EN` ![Stars](https://img.shields.io/github/stars/larksuite/cli?style=flat-square)
-- [metasequoiaime/msime](https://github.com/metasequoiaime/msime) - Cross-platform Chinese input method (Pinyin and Shuangpin layouts) built on a single shared Rust engine across Android, iOS, macOS, Linux, Windows, and HarmonyOS. `Rust` ![Stars](https://img.shields.io/github/stars/metasequoiaime/msime?style=flat-square)
 - [justauth/JustAuth](https://github.com/justauth/JustAuth) - Unified third-party login SDK covering 30+ platforms behind one simple API — including WeChat, Alipay, Weibo, QQ, DingTalk, and Feishu alongside global providers like GitHub, Google, and Slack. `Java` ![Stars](https://img.shields.io/github/stars/justauth/JustAuth?style=flat-square)
 - [alibaba/DataX](https://github.com/alibaba/DataX) - Offline data synchronization tool for heterogeneous data sources — supports MySQL, Oracle, HDFS, Hive, and 20+ connectors. `Alibaba` `Java` ![Stars](https://img.shields.io/github/stars/alibaba/DataX?style=flat-square)
+- [metasequoiaime/msime](https://github.com/metasequoiaime/msime) - Cross-platform Chinese input method (Pinyin and Shuangpin layouts) built on a single shared Rust engine across Android, iOS, macOS, Linux, Windows, and HarmonyOS. `Rust` ![Stars](https://img.shields.io/github/stars/metasequoiaime/msime?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
