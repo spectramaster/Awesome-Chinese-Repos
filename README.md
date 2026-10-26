@@ -42,13 +42,13 @@ Yet many of these projects remain invisible to international developers because 
 - [Learning & Education](#-learning--education) *(14)*
 
 **AI**
-- [AI & Machine Learning](#-ai--machine-learning) *(24)*
+- [AI & Machine Learning](#-ai--machine-learning) *(25)*
 - [AI Applications & Chatbots](#-ai-applications--chatbots) *(10)*
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
-- [Developer Tools & Libraries](#-developer-tools--libraries) *(20)*
-- [Web Scraping & Data Collection](#-web-scraping--data-collection) *(4)*
+- [Developer Tools & Libraries](#-developer-tools--libraries) *(21)*
+- [Web Scraping & Data Collection](#-web-scraping--data-collection) *(5)*
 - [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(5)*
 
 **Platforms**
@@ -86,6 +86,7 @@ _Comprehensive learning resources, interview preparation, and programming guides
 
 _Large language models, NLP toolkits, OCR engines, and training frameworks from China's leading AI labs._
 
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek's open-source, plugin-based AI agent harness with a built-in local web UI for running and extending coding agents — one of GitHub's fastest-growing projects, passing 100k+ stars within days of its August 2026 release. `DeepSeek` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/deepseek-ai/deepseek-harness?style=flat-square)
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - DeepSeek's flagship open-source model — Mixture-of-Experts architecture achieving top-tier performance at a fraction of the training cost. `DeepSeek` `Python` `EN` ![Stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=flat-square)
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Lightweight OCR and document-parsing toolkit that converts PDFs and images into structured data for LLM pipelines, supporting 100+ languages. `Baidu` `Python` `EN` ![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=flat-square)
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - ByteDance's open-source long-horizon SuperAgent harness — sandboxed execution, persistent memory, skills, and sub-agent orchestration for research, coding, and content-creation tasks. `ByteDance` `Python` `EN` ![Stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square)
@@ -172,6 +173,7 @@ _Battle-tested libraries and diagnostic tools from Alibaba, Dromara, and DiDi �
 - [larksuite/cli](https://github.com/larksuite/cli) - Official CLI for Lark/Feishu, ByteDance's enterprise collaboration suite — 200+ commands covering Messenger, Docs, Base, Sheets, and Calendar, with built-in AI Agent skills for tool-calling workflows. `ByteDance` `Go` `EN` ![Stars](https://img.shields.io/github/stars/larksuite/cli?style=flat-square)
 - [justauth/JustAuth](https://github.com/justauth/JustAuth) - Unified third-party login SDK covering 30+ platforms behind one simple API — including WeChat, Alipay, Weibo, QQ, DingTalk, and Feishu alongside global providers like GitHub, Google, and Slack. `Java` ![Stars](https://img.shields.io/github/stars/justauth/JustAuth?style=flat-square)
 - [alibaba/DataX](https://github.com/alibaba/DataX) - Offline data synchronization tool for heterogeneous data sources — supports MySQL, Oracle, HDFS, Hive, and 20+ connectors. `Alibaba` `Java` ![Stars](https://img.shields.io/github/stars/alibaba/DataX?style=flat-square)
+- [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) - CLI from Tencent that syncs a team's AI coding-agent assets — skills, rules, MCP servers, and shared knowledge — through a plain git repo, so each teammate gets the full shared setup after a one-time install. `Tencent` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/teamai-cli?style=flat-square)
 - [metasequoiaime/msime](https://github.com/metasequoiaime/msime) - Cross-platform Chinese input method (Pinyin and Shuangpin layouts) built on a single shared Rust engine across Android, iOS, macOS, Linux, Windows, and HarmonyOS. `Rust` ![Stars](https://img.shields.io/github/stars/metasequoiaime/msime?style=flat-square)
 
 **[⬆ back to top](#contents)**
@@ -184,6 +186,7 @@ _Crawlers and automation tools for extracting data from Chinese (and global) pla
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - Visual, no-code web crawler — design and run browser automation and scraping tasks by pointing and clicking instead of writing code. `JavaScript` `EN` ![Stars](https://img.shields.io/github/stars/NaiboWang/EasySpider?style=flat-square)
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - Self-hosted REST API for scraping and downloading watermark-free videos and metadata from Douyin and TikTok, with an MCP server and CLI. `Python` `EN` ![Stars](https://img.shields.io/github/stars/Evil0ctal/Douyin_TikTok_Download_API?style=flat-square)
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - Cross-platform desktop tool for downloading watermark-free video, audio, and images from WeChat Channels, Mini Programs, Douyin, Kuaishou, and Xiaohongshu. `Go` ![Stars](https://img.shields.io/github/stars/putyy/res-downloader?style=flat-square)
+- [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - Go MCP server giving AI assistants direct, operational access to Xiaohongshu (RedNote) — search posts, publish image/video content, and read or post comments, via both MCP tools and an HTTP API. `Go` ![Stars](https://img.shields.io/github/stars/xpzouying/xiaohongshu-mcp?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
