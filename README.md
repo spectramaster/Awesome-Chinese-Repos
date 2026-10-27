@@ -56,7 +56,7 @@ Yet many of these projects remain invisible to international developers because 
 - [Data & Database](#-data--database) *(6)*
 - [Security Tools](#-security-tools) *(4)*
 - [Content Management & Blogging](#-content-management--blogging) *(5)*
-- [DevOps & Monitoring](#-devops--monitoring) *(3)*
+- [DevOps & Monitoring](#-devops--monitoring) *(6)*
 - [WeChat Ecosystem](#-wechat-ecosystem) *(16)*
 
 ---
@@ -258,6 +258,9 @@ _Website builders and content management systems._
 _Infrastructure monitoring and operations tools._
 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - Modern open-source Linux server management panel — website, database, container, and backup management with a built-in AI ops assistant, from FIT2CLOUD (also behind Halo and JumpServer). `FIT2CLOUD` `Go` `EN` ![Stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=flat-square)
+- [apache/skywalking](https://github.com/apache/skywalking) - APM and observability platform for distributed tracing, service mesh, and metrics/logging correlation. Started by Chinese developer Wu Sheng, now a top-level Apache Software Foundation project. `Java` `EN` ![Stars](https://img.shields.io/github/stars/apache/skywalking?style=flat-square)
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - Enterprise-grade container platform built on Kubernetes, adding multi-cluster, multi-tenancy, DevOps pipelines, and observability on top for multi-cloud, datacenter, and edge deployments. Developed by QingCloud. `QingCloud` `Go` `EN` ![Stars](https://img.shields.io/github/stars/kubesphere/kubesphere?style=flat-square)
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Self-hosted alerting and monitoring platform for metrics, logs, and databases, with a built-in AI agent and MCP server. Originated at Didi, now maintained by the Flashcat/CCF open-source community. `Didi` `Go` `EN` ![Stars](https://img.shields.io/github/stars/ccfos/nightingale?style=flat-square)
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - Real-time monitoring system — agentless monitoring for servers, databases, middleware, cloud native, and custom metrics. Graduated from the Dromara community to the Apache Software Foundation. `Java` `EN` ![Stars](https://img.shields.io/github/stars/apache/hertzbeat?style=flat-square)
 - [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Comprehensive Linux monitoring: hardware, CPU, memory, disk I/O, GPU, Docker, Kubernetes, network traffic, processes, and log monitoring with alerting. `Java` ![Stars](https://img.shields.io/github/stars/tianshiyeben/wgcloud?style=flat-square)
 
