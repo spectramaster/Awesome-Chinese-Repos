@@ -39,11 +39,11 @@ Yet many of these projects remain invisible to international developers because 
 ## Contents
 
 **Learning**
-- [Learning & Education](#-learning--education) *(14)*
+- [Learning & Education](#-learning--education) *(15)*
 
 **AI**
-- [AI & Machine Learning](#-ai--machine-learning) *(25)*
-- [AI Applications & Chatbots](#-ai-applications--chatbots) *(10)*
+- [AI & Machine Learning](#-ai--machine-learning) *(26)*
+- [AI Applications & Chatbots](#-ai-applications--chatbots) *(11)*
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
@@ -79,6 +79,7 @@ _Comprehensive learning resources, interview preparation, and programming guides
 - [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - Interactive, gamified SQL tutorial website — learn SQL from zero to advanced through coding challenges. `TypeScript` ![Stars](https://img.shields.io/github/stars/liyupi/sql-mother?style=flat-square)
 - [youngyangyang04/llm-master](https://github.com/youngyangyang04/llm-master) - Full-stack LLM engineering curriculum covering prompt engineering, RAG, agents, fine-tuning (SFT/RLHF/DPO/LoRA), Transformer internals, and production deployment, with 150+ tutorials and interview prep. ![Stars](https://img.shields.io/github/stars/youngyangyang04/llm-master?style=flat-square)
 - [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) - Datawhale's full-stack RAG (retrieval-augmented generation) tutorial for LLM application developers — covers data preparation, indexing, retrieval, generation, and evaluation through hands-on projects. `Python` ![Stars](https://img.shields.io/github/stars/datawhalechina/all-in-rag?style=flat-square)
+- [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized) - 100+ original architecture diagrams visually explaining LLM/VLM structure and RL training algorithms (RLHF, DPO, GRPO, SFT, CoT distillation) — a free visual companion to the author's published book on large-model algorithms, with high-resolution vector sources. ![Stars](https://img.shields.io/github/stars/changyeyu/LLM-RL-Visualized?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
@@ -111,6 +112,7 @@ _Large language models, NLP toolkits, OCR engines, and training frameworks from 
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - Shanghai AI Laboratory's open LLM series (InternLM through InternLM3) with strong reasoning ability and long-context support. `Shanghai AI Lab` `Python` `EN` ![Stars](https://img.shields.io/github/stars/InternLM/InternLM?style=flat-square)
 - [baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2) - Open-source large language models (7B & 13B) with strong Chinese and multilingual capabilities. `Baichuan` `Python` ![Stars](https://img.shields.io/github/stars/baichuan-inc/Baichuan2?style=flat-square)
 - [Mininglamp-AI/Mano-P](https://github.com/Mininglamp-AI/Mano-P) - Open-source GUI-VLA agent for on-device desktop automation — ranks #1 on the specialized OSWorld benchmark (58.2%) and runs entirely locally on Apple M4 hardware, with no data leaving the device. `Mininglamp AI` `EN` ![Stars](https://img.shields.io/github/stars/Mininglamp-AI/Mano-P?style=flat-square)
+- [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) - End-to-end training pipeline for domain-specific LLMs, covering pretraining, supervised fine-tuning, RLHF/DPO/ORPO preference optimization, and on-policy distillation, demonstrated on building a medical-domain GPT model. `Python` ![Stars](https://img.shields.io/github/stars/shibing624/MedicalGPT?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
@@ -128,6 +130,7 @@ _Ready-to-deploy AI application platforms and chat interfaces built by Chinese t
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots — connects LLMs to Discord, Slack, Telegram, WeChat, WeCom, Lark, and DingTalk from one codebase, with a plugin marketplace and n8n/Dify workflow integrations. `Python` `EN` ![Stars](https://img.shields.io/github/stars/langbot-app/LangBot?style=flat-square)
 - [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - Self-hosted, privacy-first AI assistant platform from Tencent — multi-user, multi-agent, with a web dashboard, CLI, and chat integrations for Feishu and Discord. `Tencent` `Python` `EN` ![Stars](https://img.shields.io/github/stars/TencentCloud/Octop?style=flat-square)
 - [ZJU-REAL/Easel](https://github.com/ZJU-REAL/Easel) - Open-source AI content workbench for social media creators — trend discovery, script/visual/video generation, and direct publishing across Xiaohongshu, Douyin, Bilibili, Zhihu, and WeChat, with persistent creator profiles. From Zhejiang University and Peking University research labs. `Python` ![Stars](https://img.shields.io/github/stars/ZJU-REAL/Easel?style=flat-square)
+- [xszyou/Fay](https://github.com/xszyou/Fay) - Digital-human application framework that wires together LLMs, ASR, TTS, and avatar-rendering models behind one interface — powers streaming voice assistants, virtual broadcasters, and embedded/terminal integrations with agent-based tool use and persistent memory. `Python` ![Stars](https://img.shields.io/github/stars/xszyou/Fay?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
