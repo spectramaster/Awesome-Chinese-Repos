@@ -42,12 +42,12 @@ Yet many of these projects remain invisible to international developers because 
 - [Learning & Education](#-learning--education) *(15)*
 
 **AI**
-- [AI & Machine Learning](#-ai--machine-learning) *(26)*
+- [AI & Machine Learning](#-ai--machine-learning) *(27)*
 - [AI Applications & Chatbots](#-ai-applications--chatbots) *(11)*
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
-- [Developer Tools & Libraries](#-developer-tools--libraries) *(21)*
+- [Developer Tools & Libraries](#-developer-tools--libraries) *(22)*
 - [Web Scraping & Data Collection](#-web-scraping--data-collection) *(5)*
 - [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(5)*
 
@@ -90,6 +90,7 @@ _Large language models, NLP toolkits, OCR engines, and training frameworks from 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek's open-source, plugin-based AI agent harness with a built-in local web UI for running and extending coding agents — one of GitHub's fastest-growing projects, passing 100k+ stars within days of its August 2026 release. `DeepSeek` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/deepseek-ai/deepseek-harness?style=flat-square)
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - DeepSeek's flagship open-source model — Mixture-of-Experts architecture achieving top-tier performance at a fraction of the training cost. `DeepSeek` `Python` `EN` ![Stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=flat-square)
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Lightweight OCR and document-parsing toolkit that converts PDFs and images into structured data for LLM pipelines, supporting 100+ languages. `Baidu` `Python` `EN` ![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=flat-square)
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - Baidu's open-source deep learning platform — a full-stack framework covering distributed training, model compression, and inference deployment, underpinning the rest of the PaddlePaddle ecosystem (PaddleOCR, PaddleNLP, PaddleSpeech). `Baidu` `Python` `EN` ![Stars](https://img.shields.io/github/stars/PaddlePaddle/Paddle?style=flat-square)
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - ByteDance's open-source long-horizon SuperAgent harness — sandboxed execution, persistent memory, skills, and sub-agent orchestration for research, coding, and content-creation tasks. `ByteDance` `Python` `EN` ![Stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square)
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - The most comprehensive Chinese NLP resource collection: sentiment lexicons, named entity recognition, text generation, knowledge graphs, and 50+ datasets. `Python` ![Stars](https://img.shields.io/github/stars/fighting41love/funNLP?style=flat-square)
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster, and more accessible — distributed training framework supporting parallelism strategies. `Python` `EN` ![Stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=flat-square)
@@ -157,6 +158,7 @@ _Related: [Backend Frameworks & Middleware](#-backend-frameworks--middleware), [
 
 _Battle-tested libraries and diagnostic tools from Alibaba, Dromara, and DiDi — forged in production at massive scale._
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open-source remote desktop software — a self-hostable alternative to TeamViewer/AnyDesk with end-to-end encryption, built in Rust with its own relay and ID server. `Rust` `EN` ![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat-square)
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - Enterprise-class UI design language and React component library from Ant Group — 70+ high-quality components powering countless production applications worldwide. `Ant Group` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/ant-design/ant-design?style=flat-square)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - Turns a USB drive into a multiboot disk — copy multiple ISO, WIM, IMG, VHD(x), or EFI files onto it directly and pick which one to boot from a menu, no reformatting needed between OSes. `C` `EN` ![Stars](https://img.shields.io/github/stars/ventoy/Ventoy?style=flat-square)
 - [apache/echarts](https://github.com/apache/echarts) - Powerful, highly customizable charting and data visualization library, originally built by Baidu engineers and now a top-level Apache Software Foundation project. `Baidu` `JavaScript` `EN` ![Stars](https://img.shields.io/github/stars/apache/echarts?style=flat-square)
