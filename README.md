@@ -57,6 +57,7 @@ Yet many of these projects remain invisible to international developers because 
 - [Security Tools](#-security-tools) *(4)*
 - [Content Management & Blogging](#-content-management--blogging) *(5)*
 - [DevOps & Monitoring](#-devops--monitoring) *(6)*
+- [Payments & Messaging Infra](#-payments--messaging-infra) *(3)*
 - [WeChat Ecosystem](#-wechat-ecosystem) *(16)*
 
 ---
@@ -268,6 +269,16 @@ _Infrastructure monitoring and operations tools._
 - [ccfos/nightingale](https://github.com/ccfos/nightingale) - Self-hosted alerting and monitoring platform for metrics, logs, and databases, with a built-in AI agent and MCP server. Originated at Didi, now maintained by the Flashcat/CCF open-source community. `Didi` `Go` `EN` ![Stars](https://img.shields.io/github/stars/ccfos/nightingale?style=flat-square)
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - Real-time monitoring system — agentless monitoring for servers, databases, middleware, cloud native, and custom metrics. Graduated from the Dromara community to the Apache Software Foundation. `Java` `EN` ![Stars](https://img.shields.io/github/stars/apache/hertzbeat?style=flat-square)
 - [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Comprehensive Linux monitoring: hardware, CPU, memory, disk I/O, GPU, Docker, Kubernetes, network traffic, processes, and log monitoring with alerting. `Java` ![Stars](https://img.shields.io/github/stars/tianshiyeben/wgcloud?style=flat-square)
+
+**[⬆ back to top](#contents)**
+
+## 💰 Payments & Messaging Infra
+
+_SDKs and platforms that bridge Chinese payment gateways and messaging channels — WeChat Pay, Alipay, DingTalk, WeCom — behind a single unified API._
+
+- [jeequan/jeepay](https://github.com/jeequan/jeepay) - Open-source aggregated payment system for merchants and payment-service providers — integrates WeChat Pay, Alipay, and UnionPay (云闪付) with QR-code aggregation and multi-tenant support. `Java` ![Stars](https://img.shields.io/github/stars/jeequan/jeepay?style=flat-square)
+- [ZhongFuCheng3y/austin](https://github.com/ZhongFuCheng3y/austin) - Unified message-push platform with one API for SMS, email, WeChat official-account/mini-program messages, Enterprise WeChat, and DingTalk, with full message-lifecycle tracing. `Java` ![Stars](https://img.shields.io/github/stars/ZhongFuCheng3y/austin?style=flat-square)
+- [go-pay/gopay](https://github.com/go-pay/gopay) - Minimalist Go SDK aggregating WeChat Pay, Alipay, Douyin Pay, PayPal, and Apple Pay behind one consistent interface. `Go` ![Stars](https://img.shields.io/github/stars/go-pay/gopay?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
