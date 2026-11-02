@@ -39,7 +39,7 @@ Yet many of these projects remain invisible to international developers because 
 ## Contents
 
 **Learning**
-- [Learning & Education](#-learning--education) *(15)*
+- [Learning & Education](#-learning--education) *(16)*
 
 **AI**
 - [AI & Machine Learning](#-ai--machine-learning) *(27)*
@@ -54,7 +54,7 @@ Yet many of these projects remain invisible to international developers because 
 **Platforms**
 - [Mobile Development](#-mobile-development) *(6)*
 - [Data & Database](#-data--database) *(6)*
-- [Security Tools](#-security-tools) *(4)*
+- [Security Tools](#-security-tools) *(5)*
 - [Content Management & Blogging](#-content-management--blogging) *(5)*
 - [DevOps & Monitoring](#-devops--monitoring) *(6)*
 - [Payments & Messaging Infra](#-payments--messaging-infra) *(3)*
@@ -81,6 +81,7 @@ _Comprehensive learning resources, interview preparation, and programming guides
 - [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized) - 100+ original architecture diagrams visually explaining LLM/VLM structure and RL training algorithms (RLHF, DPO, GRPO, SFT, CoT distillation) — a free visual companion to the author's published book on large-model algorithms, with high-resolution vector sources. ![Stars](https://img.shields.io/github/stars/changyeyu/LLM-RL-Visualized?style=flat-square)
 - [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - Interactive, gamified SQL tutorial website — learn SQL from zero to advanced through coding challenges. `TypeScript` ![Stars](https://img.shields.io/github/stars/liyupi/sql-mother?style=flat-square)
 - [youngyangyang04/llm-master](https://github.com/youngyangyang04/llm-master) - Full-stack LLM engineering curriculum covering prompt engineering, RAG, agents, fine-tuning (SFT/RLHF/DPO/LoRA), Transformer internals, and production deployment, with 150+ tutorials and interview prep. ![Stars](https://img.shields.io/github/stars/youngyangyang04/llm-master?style=flat-square)
+- [IAAR-Shanghai/Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory) - Continuously updated knowledge base on AI memory for LLMs and agents — curates 1,300+ papers and 100+ open-source projects on long-term/episodic/semantic memory, retrieval, and memory-native system design. ![Stars](https://img.shields.io/github/stars/IAAR-Shanghai/Awesome-AI-Memory?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
@@ -244,6 +245,7 @@ _Penetration testing and web application security tools._
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - Self-hosted Web Application Firewall (WAF) powered by intelligent semantic analysis — simple to deploy, effective against web attacks. `Chaitin` `Go` `EN` ![Stars](https://img.shields.io/github/stars/chaitin/SafeLine?style=flat-square)
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - All-in-one intranet scanning tool — one-click automated vulnerability scanning for penetration testing. `Go` ![Stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square)
 - [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - AI-powered multi-agent platform for automated code vulnerability discovery — autonomous static analysis plus sandboxed PoC validation, with one-click setup and local LLM (Ollama) support. `Python` `EN` ![Stars](https://img.shields.io/github/stars/lintsinghua/DeepAudit?style=flat-square)
+- [Netw0rkNoob/VulnClaw](https://github.com/Netw0rkNoob/VulnClaw) - AI agent-driven penetration testing CLI — takes a natural-language goal and autonomously runs recon, vulnerability discovery, exploitation/PoC validation, and report generation via an LLM + MCP toolchain, for authorized pentesting, CTF, and red-team use. `Python` ![Stars](https://img.shields.io/github/stars/Netw0rkNoob/VulnClaw?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
