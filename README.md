@@ -39,7 +39,7 @@ Yet many of these projects remain invisible to international developers because 
 ## Contents
 
 **Learning**
-- [Learning & Education](#-learning--education) *(16)*
+- [Learning & Education](#-learning--education) *(19)*
 
 **AI**
 - [AI & Machine Learning](#-ai--machine-learning) *(27)*
@@ -82,6 +82,9 @@ _Comprehensive learning resources, interview preparation, and programming guides
 - [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - Interactive, gamified SQL tutorial website — learn SQL from zero to advanced through coding challenges. `TypeScript` ![Stars](https://img.shields.io/github/stars/liyupi/sql-mother?style=flat-square)
 - [youngyangyang04/llm-master](https://github.com/youngyangyang04/llm-master) - Full-stack LLM engineering curriculum covering prompt engineering, RAG, agents, fine-tuning (SFT/RLHF/DPO/LoRA), Transformer internals, and production deployment, with 150+ tutorials and interview prep. ![Stars](https://img.shields.io/github/stars/youngyangyang04/llm-master?style=flat-square)
 - [IAAR-Shanghai/Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory) - Continuously updated knowledge base on AI memory for LLMs and agents — curates 1,300+ papers and 100+ open-source projects on long-term/episodic/semantic memory, retrieval, and memory-native system design. ![Stars](https://img.shields.io/github/stars/IAAR-Shanghai/Awesome-AI-Memory?style=flat-square)
+- [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - Datawhale's from-scratch LLM course — walks through NLP fundamentals and Transformer architecture, then pretraining, fine-tuning, RAG, agents, and agentic reinforcement learning, with companion code for each chapter. ![Stars](https://img.shields.io/github/stars/datawhalechina/happy-llm?style=flat-square)
+- [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - Large, continuously updated collection of write-ups and practical experience on LLM engineering — distributed training, fine-tuning, inference optimization, quantization, evaluation, and LLMOps. ![Stars](https://img.shields.io/github/stars/liguodongiot/llm-action?style=flat-square)
+- [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) - Fast-growing guide to AI agent development covering agent harness design, context engineering, advanced RAG, MCP, agentic reinforcement learning, and LangGraph, plus 12,000+ LLM interview questions for job seekers. ![Stars](https://img.shields.io/github/stars/adongwanai/AgentGuide?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
