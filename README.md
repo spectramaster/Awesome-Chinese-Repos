@@ -57,7 +57,7 @@ Yet many of these projects remain invisible to international developers because 
 - [Security Tools](#-security-tools) *(5)*
 - [Content Management & Blogging](#-content-management--blogging) *(5)*
 - [DevOps & Monitoring](#-devops--monitoring) *(6)*
-- [Payments & Messaging Infra](#-payments--messaging-infra) *(4)*
+- [Payments & Messaging Infra](#-payments--messaging-infra) *(7)*
 - [WeChat Ecosystem](#-wechat-ecosystem) *(18)*
 
 ---
@@ -293,6 +293,9 @@ _SDKs and platforms that bridge Chinese payment gateways and messaging channels 
 - [ZhongFuCheng3y/austin](https://github.com/ZhongFuCheng3y/austin) - Unified message-push platform with one API for SMS, email, WeChat official-account/mini-program messages, Enterprise WeChat, and DingTalk, with full message-lifecycle tracing. `Java` ![Stars](https://img.shields.io/github/stars/ZhongFuCheng3y/austin?style=flat-square)
 - [go-pay/gopay](https://github.com/go-pay/gopay) - Minimalist Go SDK aggregating WeChat Pay, Alipay, Douyin Pay, PayPal, and Apple Pay behind one consistent interface. `Go` ![Stars](https://img.shields.io/github/stars/go-pay/gopay?style=flat-square)
 - [yansongda/pay](https://github.com/yansongda/pay) - Elegant PHP payment SDK unifying Alipay, WeChat Pay, Douyin Pay, UnionPay, and Bank of Jiangsu behind one PSR-compliant API, with multi-tenancy, Swoole support, and a flexible plugin/event system. `PHP` ![Stars](https://img.shields.io/github/stars/yansongda/pay?style=flat-square)
+- [rememberber/WePush](https://github.com/rememberber/WePush) - Small, focused batch-push tool covering WeChat template/mini-program/customer-service messages and Enterprise WeChat, plus SMS through Aliyun, Tencent Cloud, Huawei Cloud, Yunpian, Upyun, and Qiniu behind one config-driven API. `Java` ![Stars](https://img.shields.io/github/stars/rememberber/WePush?style=flat-square)
+- [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - Self-hosted notification gateway, open-source alternative to Server酱 — single executable, Markdown-formatted messages, fans out to email, Bark, DingTalk, WeCom, Telegram, and more behind one unified push API. `Go` ![Stars](https://img.shields.io/github/stars/songquanpeng/message-pusher?style=flat-square)
+- [dromara/SMS4J](https://github.com/dromara/SMS4J) - SMS aggregation framework from the Dromara open-source ecosystem, unifying dozens of Chinese and international SMS providers (Aliyun, Tencent Cloud, Huawei Cloud, etc.) behind one simple interface. `Java` ![Stars](https://img.shields.io/github/stars/dromara/SMS4J?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
