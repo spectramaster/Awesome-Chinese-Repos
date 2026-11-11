@@ -42,7 +42,7 @@ Yet many of these projects remain invisible to international developers because 
 - [Learning & Education](#-learning--education) *(19)*
 
 **AI**
-- [AI & Machine Learning](#-ai--machine-learning) *(31)*
+- [AI & Machine Learning](#-ai--machine-learning) *(33)*
 - [AI Applications & Chatbots](#-ai-applications--chatbots) *(11)*
 
 **Systems & Frameworks**
@@ -102,7 +102,6 @@ _Large language models, NLP toolkits, OCR engines, and training frameworks from 
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - General-purpose open-source AI agent framework from the MetaGPT team — plans and executes multi-step browsing, coding, and file-operation tasks from natural-language instructions. `Python` `EN` ![Stars](https://img.shields.io/github/stars/FoundationAgents/OpenManus?style=flat-square)
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster, and more accessible — distributed training framework supporting parallelism strategies. `Python` `EN` ![Stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=flat-square)
 - [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - Tsinghua University-incubated open bilingual (Chinese-English) chat model. Runs on consumer GPUs with INT4 quantization (6GB VRAM); the team's newer GLM-4 models continue the line. `Tsinghua` `Python` ![Stars](https://img.shields.io/github/stars/zai-org/ChatGLM-6B?style=flat-square)
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - ByteDance's open-source multimodal AI agent stack — Agent TARS and UI-TARS Desktop pair a vision-language model with computer/browser control to complete natural-language tasks on screen. `ByteDance` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop?style=flat-square)
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - Comprehensive multilingual NLP toolkit covering Chinese word segmentation, POS tagging, named entity recognition, dependency parsing, and semantic analysis — one of the most widely used production-grade Chinese NLP libraries. `Python` ![Stars](https://img.shields.io/github/stars/hankcs/HanLP?style=flat-square)
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Baidu's open-source OCR model for ultra-long documents — a sparse sliding-window attention design keeps per-step decoding cost roughly constant as page count grows, parsing multi-page PDFs in a single pass. `Baidu` `Python` `EN` ![Stars](https://img.shields.io/github/stars/baidu/Unlimited-OCR?style=flat-square)
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Open-source AI coding agent for the terminal from Alibaba's Qwen team — works across terminal, desktop, IDE plugins, and chat integrations, with support for OpenAI, Anthropic, Gemini, and Qwen APIs plus local models. `Alibaba` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/QwenLM/qwen-code?style=flat-square)
