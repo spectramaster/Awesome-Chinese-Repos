@@ -43,7 +43,7 @@ Yet many of these projects remain invisible to international developers because 
 
 **AI**
 - [AI & Machine Learning](#-ai--machine-learning) *(36)*
-- [AI Applications & Chatbots](#-ai-applications--chatbots) *(11)*
+- [AI Applications & Chatbots](#-ai-applications--chatbots) *(14)*
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
@@ -138,6 +138,9 @@ _Ready-to-deploy AI application platforms and chat interfaces built by Chinese t
 - [langgenius/dify](https://github.com/langgenius/dify) - Open-source LLM app development platform — build AI workflows, RAG pipelines, and agent applications with a visual interface. `TypeScript` `Python` `EN` ![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - Automated AI workflow that generates complete HD short videos from just a topic or keyword — scripting, voiceover, stock footage, subtitles, and background music handled end-to-end. `Python` ![Stars](https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo?style=flat-square)
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - Open-source RAG engine built on deep document understanding, fusing retrieval with agent capabilities to power production knowledge-base and RAG applications. `InfiniFlow` `Python` `EN` ![Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square)
+- [labring/FastGPT](https://github.com/labring/FastGPT) - Knowledge-base platform for building RAG-based Q&A applications — document processing, dataset retrieval, and a visual workflow orchestration engine for AI applications. `TypeScript` ![Stars](https://img.shields.io/github/stars/labring/FastGPT?style=flat-square)
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - Enterprise-grade agent platform combining a RAG pipeline for document-based knowledge Q&A with a visual workflow engine for orchestrating agents, functions, and MCP tools. `Python` `EN` ![Stars](https://img.shields.io/github/stars/1Panel-dev/MaxKB?style=flat-square)
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Agentic AI data assistant for querying, analyzing, and automating workflows over structured data and BI systems using natural language, with multi-agent orchestration and RAG support. `Python` `EN` ![Stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=flat-square)
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - Cross-platform AI chat client with no API key required — sign up and chat with GPT-5, Claude, Gemini, DeepSeek, and 100+ other models. Available on Web, iOS, macOS, Android, Linux, and Windows. `TypeScript` ![Stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=flat-square)
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - AI agent operations platform (formerly the LobeChat chat UI) — hire, schedule, and manage a team of AI agents with a knowledge base and multi-provider support. `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square)
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - Practical interactive interface for LLMs optimized for academic workflows — paper reading, polishing, translation, and writing, with function plugins and support for querying multiple models in parallel. `Python` ![Stars](https://img.shields.io/github/stars/binary-husky/gpt_academic?style=flat-square)
