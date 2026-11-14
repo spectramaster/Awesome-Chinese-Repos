@@ -43,7 +43,7 @@ Yet many of these projects remain invisible to international developers because 
 
 **AI**
 - [AI & Machine Learning](#-ai--machine-learning) *(36)*
-- [AI Applications & Chatbots](#-ai-applications--chatbots) *(14)*
+- [AI Applications & Chatbots](#-ai-applications--chatbots) *(15)*
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
@@ -58,7 +58,7 @@ Yet many of these projects remain invisible to international developers because 
 - [Content Management & Blogging](#-content-management--blogging) *(5)*
 - [DevOps & Monitoring](#-devops--monitoring) *(6)*
 - [Payments & Messaging Infra](#-payments--messaging-infra) *(7)*
-- [WeChat Ecosystem](#-wechat-ecosystem) *(18)*
+- [WeChat Ecosystem](#-wechat-ecosystem) *(19)*
 
 ---
 
@@ -148,6 +148,7 @@ _Ready-to-deploy AI application platforms and chat interfaces built by Chinese t
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots — connects LLMs to Discord, Slack, Telegram, WeChat, WeCom, Lark, and DingTalk from one codebase, with a plugin marketplace and n8n/Dify workflow integrations. `Python` `EN` ![Stars](https://img.shields.io/github/stars/langbot-app/LangBot?style=flat-square)
 - [xszyou/Fay](https://github.com/xszyou/Fay) - Digital-human application framework that wires together LLMs, ASR, TTS, and avatar-rendering models behind one interface — powers streaming voice assistants, virtual broadcasters, and embedded/terminal integrations with agent-based tool use and persistent memory. `Python` ![Stars](https://img.shields.io/github/stars/xszyou/Fay?style=flat-square)
 - [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - Self-hosted, privacy-first AI assistant platform from Tencent — multi-user, multi-agent, with a web dashboard, CLI, and chat integrations for Feishu and Discord. `Tencent` `Python` `EN` ![Stars](https://img.shields.io/github/stars/TencentCloud/Octop?style=flat-square)
+- [koishijs/koishi](https://github.com/koishijs/koishi) - Extensible cross-platform chatbot framework with a web console, hot-reloading plugin development, and a marketplace of 3,000+ community plugins — connects bots to QQ, Discord, Telegram, and Feishu from one codebase. `TypeScript` ![Stars](https://img.shields.io/github/stars/koishijs/koishi?style=flat-square)
 - [ZJU-REAL/Easel](https://github.com/ZJU-REAL/Easel) - Open-source AI content workbench for social media creators — trend discovery, script/visual/video generation, and direct publishing across Xiaohongshu, Douyin, Bilibili, Zhihu, and WeChat, with persistent creator profiles. From Zhejiang University and Peking University research labs. `Python` ![Stars](https://img.shields.io/github/stars/ZJU-REAL/Easel?style=flat-square)
 
 **[⬆ back to top](#contents)**
@@ -322,6 +323,7 @@ _Related: [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels
 - [w7corp/easywechat](https://github.com/w7corp/easywechat) - Widely-used PHP SDK for WeChat integration — official accounts, mini programs, WeChat Pay, and the open platform, distilled into a simple, consistent API. `PHP` ![Stars](https://img.shields.io/github/stars/w7corp/easywechat?style=flat-square)
 - [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - Mature .NET SDK for the WeChat ecosystem (Senparc.Weixin) — covers official accounts, mini programs, mini games, WeChat Pay, and enterprise WeChat across .NET Framework and .NET Core/6+. `C#` ![Stars](https://img.shields.io/github/stars/JeffreySu/WeiXinMPSDK?style=flat-square)
 - [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - Canvas-based lucky-draw widget (wheel, grid, and slot-machine styles) — one codebase adapts to JS, Vue, React, Taro, UniApp, and WeChat Mini Programs. `TypeScript` ![Stars](https://img.shields.io/github/stars/buuing/lucky-canvas?style=flat-square)
+- [ecomfe/echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) - Official WeChat Mini Program port of Apache ECharts from Baidu's front-end team — renders the same charting library used on the web inside a mini program canvas component. `Baidu` `JavaScript` ![Stars](https://img.shields.io/github/stars/ecomfe/echarts-for-weixin?style=flat-square)
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - Automated WeChat Mini Program decompilation tool — for security assessment, reverse engineering, and debugging. `Go` ![Stars](https://img.shields.io/github/stars/Ackites/KillWxapkg?style=flat-square)
 - [Tencent/kbone](https://github.com/Tencent/kbone) - Official WeChat team solution for isomorphic web/Mini Program development — simulates a browser environment so existing Vue/React/Preact web code can run inside a Mini Program with minimal changes. `Tencent` `JavaScript` ![Stars](https://img.shields.io/github/stars/Tencent/kbone?style=flat-square)
 - [didi/mpx](https://github.com/didi/mpx) - Enhanced cross-platform Mini Program framework from Didi — compiles Vue-like syntax directly against each platform's native Mini Program capabilities (rather than simulating a browser), targeting WeChat/Alipay/Baidu/ByteDance mini programs, Web, and React Native. `Didi` `JavaScript` ![Stars](https://img.shields.io/github/stars/didi/mpx?style=flat-square)
