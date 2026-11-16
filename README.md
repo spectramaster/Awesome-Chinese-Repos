@@ -47,12 +47,12 @@ Yet many of these projects remain invisible to international developers because 
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
-- [Developer Tools & Libraries](#-developer-tools--libraries) *(23)*
+- [Developer Tools & Libraries](#-developer-tools--libraries) *(24)*
 - [Web Scraping & Data Collection](#-web-scraping--data-collection) *(5)*
 - [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(5)*
 
 **Platforms**
-- [Mobile Development](#-mobile-development) *(6)*
+- [Mobile Development](#-mobile-development) *(7)*
 - [Data & Database](#-data--database) *(6)*
 - [Security Tools](#-security-tools) *(5)*
 - [Content Management & Blogging](#-content-management--blogging) *(5)*
@@ -198,6 +198,7 @@ _Battle-tested libraries and diagnostic tools from Alibaba, Dromara, and DiDi �
 - [alibaba/DataX](https://github.com/alibaba/DataX) - Offline data synchronization tool for heterogeneous data sources — supports MySQL, Oracle, HDFS, Hive, and 20+ connectors. `Alibaba` `Java` ![Stars](https://img.shields.io/github/stars/alibaba/DataX?style=flat-square)
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-powered E2E testing framework from ByteDance's web infra team — write browser, mobile, and desktop UI tests in plain language, using vision models to read the interface instead of brittle selectors. `ByteDance` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/web-infra-dev/midscene?style=flat-square)
 - [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) - CLI from Tencent that syncs a team's AI coding-agent assets — skills, rules, MCP servers, and shared knowledge — through a plain git repo, so each teammate gets the full shared setup after a one-time install. `Tencent` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/teamai-cli?style=flat-square)
+- [ZihangDong/toolknit-desktop](https://github.com/ZihangDong/toolknit-desktop) - Desktop toolbox bundling 75 local tools across PDF, image, audio/video, text, and AI processing in 12 categories, with a companion web app and a CLI/MCP interface. `JavaScript` ![Stars](https://img.shields.io/github/stars/ZihangDong/toolknit-desktop?style=flat-square)
 - [metasequoiaime/msime](https://github.com/metasequoiaime/msime) - Cross-platform Chinese input method (Pinyin and Shuangpin layouts) built on a single shared Rust engine across Android, iOS, macOS, Linux, Windows, and HarmonyOS. `Rust` ![Stars](https://img.shields.io/github/stars/metasequoiaime/msime?style=flat-square)
 
 **[⬆ back to top](#contents)**
@@ -237,6 +238,7 @@ _Android components and mobile development tools._
 - [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - Feature-rich Android video player supporting IJKplayer, ExoPlayer, and MediaPlayer — with HTTPS, danmaku (bullet comments), and 16K support. `Java` `Kotlin` ![Stars](https://img.shields.io/github/stars/CarGuo/GSYVideoPlayer?style=flat-square)
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - Efficient, small mobile key-value storage framework developed by WeChat — used in production across Android, iOS, macOS, Windows, and cross-platform via Flutter/React Native bindings. `Tencent` `C++` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/MMKV?style=flat-square)
 - [alibaba/ARouter](https://github.com/alibaba/ARouter) - Routing framework for Android app componentization — annotation-based navigation between modules with support for dependency injection and interceptors. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/ARouter?style=flat-square)
+- [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) - Debloating toolkit for Chinese Android ROMs (MIUI, EMUI, and others) — disables system ads, hot-search feeds, and marketing push notifications without root, fully reversible, with one-click AI-agent execution support. `Python` ![Stars](https://img.shields.io/github/stars/rddmwmddr/android-ad-cleaner?style=flat-square)
 - [alibaba/flutter_boost](https://github.com/alibaba/flutter_boost) - Flutter plugin for hybrid integration — lets existing native Android/iOS apps embed Flutter pages incrementally instead of a full rewrite. `Alibaba` `Dart` `EN` ![Stars](https://img.shields.io/github/stars/alibaba/flutter_boost?style=flat-square)
 
 **[⬆ back to top](#contents)**
