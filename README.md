@@ -49,7 +49,7 @@ Yet many of these projects remain invisible to international developers because 
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
 - [Developer Tools & Libraries](#-developer-tools--libraries) *(24)*
 - [Web Scraping & Data Collection](#-web-scraping--data-collection) *(5)*
-- [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(5)*
+- [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(8)*
 
 **Platforms**
 - [Mobile Development](#-mobile-development) *(7)*
@@ -222,9 +222,12 @@ _Networking tools, API frameworks, and infrastructure middleware._
 _Related: [Developer Tools & Libraries](#-developer-tools--libraries)_
 
 - [fatedier/frp](https://github.com/fatedier/frp) - Fast reverse proxy — expose local servers behind NAT/firewall to the internet. Supports TCP, UDP, HTTP, HTTPS with dashboard. `Go` `EN` ![Stars](https://img.shields.io/github/stars/fatedier/frp?style=flat-square)
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - Cloud-native Go microservices framework with built-in resilience design (rate limiting, circuit breaking, adaptive load shedding) and a `goctl` CLI that generates API/RPC boilerplate from schema files. `Go` `EN` ![Stars](https://img.shields.io/github/stars/zeromicro/go-zero?style=flat-square)
+- [go-kratos/kratos](https://github.com/go-kratos/kratos) - Go microservices framework originating from Bilibili's internal service infrastructure — modular design covering HTTP/gRPC transport, config, service discovery, and observability for cloud-native apps. `Bilibili` `Go` `EN` ![Stars](https://img.shields.io/github/stars/go-kratos/kratos?style=flat-square)
 - [apache/dubbo](https://github.com/apache/dubbo) - High-performance RPC and microservices framework originally built at Alibaba, now a top-level Apache project supporting service governance across multiple languages. `Alibaba` `Java` `EN` ![Stars](https://img.shields.io/github/stars/apache/dubbo?style=flat-square)
 - [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - Cloud-native version of ruoyi-vue-pro using Spring Cloud Alibaba + MyBatis Plus. Full microservice architecture with SaaS support. `Java` ![Stars](https://img.shields.io/github/stars/YunaiV/yudao-cloud?style=flat-square)
 - [openresty/openresty](https://github.com/openresty/openresty) - Scriptable web platform that bundles Nginx with LuaJIT — created at Taobao and now widely used for API gateways, dynamic request routing, and CDN/edge logic. `C` `EN` ![Stars](https://img.shields.io/github/stars/openresty/openresty?style=flat-square)
+- [cloudwego/kitex](https://github.com/cloudwego/kitex) - ByteDance's high-performance, highly-extensible Go RPC framework for building microservices, with pluggable service discovery, load balancing, and circuit breaking. `ByteDance` `Go` `EN` ![Stars](https://img.shields.io/github/stars/cloudwego/kitex?style=flat-square)
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - Self-hosted SSL certificate automation — ACME issuance, deployment, renewal, and monitoring with visual dashboard. `Go` ![Stars](https://img.shields.io/github/stars/certimate-go/certimate?style=flat-square)
 
 **[⬆ back to top](#contents)**
