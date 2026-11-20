@@ -42,12 +42,12 @@ Yet many of these projects remain invisible to international developers because 
 - [Learning & Education](#-learning--education) *(19)*
 
 **AI**
-- [AI & Machine Learning](#-ai--machine-learning) *(36)*
-- [AI Applications & Chatbots](#-ai-applications--chatbots) *(15)*
+- [AI & Machine Learning](#-ai--machine-learning) *(37)*
+- [AI Applications & Chatbots](#-ai-applications--chatbots) *(16)*
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
-- [Developer Tools & Libraries](#-developer-tools--libraries) *(24)*
+- [Developer Tools & Libraries](#-developer-tools--libraries) *(25)*
 - [Web Scraping & Data Collection](#-web-scraping--data-collection) *(5)*
 - [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(8)*
 
@@ -131,6 +131,7 @@ _Large language models, NLP toolkits, OCR engines, and training frameworks from 
 - [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) - End-to-end training pipeline for domain-specific LLMs, covering pretraining, supervised fine-tuning, RLHF/DPO/ORPO preference optimization, and on-policy distillation, demonstrated on building a medical-domain GPT model. `Python` ![Stars](https://img.shields.io/github/stars/shibing624/MedicalGPT?style=flat-square)
 - [baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2) - Open-source large language models (7B & 13B) with strong Chinese and multilingual capabilities. `Baichuan` `Python` ![Stars](https://img.shields.io/github/stars/baichuan-inc/Baichuan2?style=flat-square)
 - [Mininglamp-AI/Mano-P](https://github.com/Mininglamp-AI/Mano-P) - Open-source GUI-VLA agent for on-device desktop automation — ranks #1 on the specialized OSWorld benchmark (58.2%) and runs entirely locally on Apple M4 hardware, with no data leaving the device. `Mininglamp AI` `EN` ![Stars](https://img.shields.io/github/stars/Mininglamp-AI/Mano-P?style=flat-square)
+- [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) - Go framework for building production AI agent systems, built on Tencent's tRPC ecosystem — LLM agents, graph workflows, tool calling, session/memory state, and knowledge retrieval, with A2A, AG-UI, and MCP integration plus OpenTelemetry observability. `Tencent` `Go` `EN` ![Stars](https://img.shields.io/github/stars/trpc-group/trpc-agent-go?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
@@ -145,6 +146,7 @@ _Ready-to-deploy AI application platforms and chat interfaces built by Chinese t
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - AI agent operations platform (formerly the LobeChat chat UI) — hire, schedule, and manage a team of AI agents with a knowledge base and multi-provider support. `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square)
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - Practical interactive interface for LLMs optimized for academic workflows — paper reading, polishing, translation, and writing, with function plugins and support for querying multiple models in parallel. `Python` ![Stars](https://img.shields.io/github/stars/binary-husky/gpt_academic?style=flat-square)
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Self-evolving personal AI agent harness with task planning, tools/skills, and memory — connects to WeChat, Feishu, DingTalk, and other chat channels; formerly the widely-used `chatgpt-on-wechat` bot framework. `Python` `EN` ![Stars](https://img.shields.io/github/stars/zhayujie/CowAgent?style=flat-square)
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Tencent's open-source LLM knowledge platform — combines RAG with citations, a multi-step agent, and a wiki over the same document knowledge bases, with MCP tool support and multi-workspace permissions. `Tencent` `Go` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/WeKnora?style=flat-square)
 - [labring/FastGPT](https://github.com/labring/FastGPT) - Knowledge-base platform for building RAG-based Q&A applications — document processing, dataset retrieval, and a visual workflow orchestration engine for AI applications. `TypeScript` ![Stars](https://img.shields.io/github/stars/labring/FastGPT?style=flat-square)
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - Enterprise-grade agent platform combining a RAG pipeline for document-based knowledge Q&A with a visual workflow engine for orchestrating agents, functions, and MCP tools. `Python` `EN` ![Stars](https://img.shields.io/github/stars/1Panel-dev/MaxKB?style=flat-square)
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Agentic AI data assistant for querying, analyzing, and automating workflows over structured data and BI systems using natural language, with multi-agent orchestration and RAG support. `Python` `EN` ![Stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=flat-square)
@@ -200,6 +202,7 @@ _Battle-tested libraries and diagnostic tools from Alibaba, Dromara, and DiDi �
 - [justauth/JustAuth](https://github.com/justauth/JustAuth) - Unified third-party login SDK covering 30+ platforms behind one simple API — including WeChat, Alipay, Weibo, QQ, DingTalk, and Feishu alongside global providers like GitHub, Google, and Slack. `Java` ![Stars](https://img.shields.io/github/stars/justauth/JustAuth?style=flat-square)
 - [alibaba/DataX](https://github.com/alibaba/DataX) - Offline data synchronization tool for heterogeneous data sources — supports MySQL, Oracle, HDFS, Hive, and 20+ connectors. `Alibaba` `Java` ![Stars](https://img.shields.io/github/stars/alibaba/DataX?style=flat-square)
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-powered E2E testing framework from ByteDance's web infra team — write browser, mobile, and desktop UI tests in plain language, using vision models to read the interface instead of brittle selectors. `ByteDance` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/web-infra-dev/midscene?style=flat-square)
+- [bytedance/sonic](https://github.com/bytedance/sonic) - Blazingly fast JSON serialization/deserialization library for Go, accelerated by JIT compilation and SIMD — a CloudWeGo subproject offering runtime object binding without code generation, streaming I/O, and GJSON-style path queries. `ByteDance` `Go` `EN` ![Stars](https://img.shields.io/github/stars/bytedance/sonic?style=flat-square)
 - [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) - CLI from Tencent that syncs a team's AI coding-agent assets — skills, rules, MCP servers, and shared knowledge — through a plain git repo, so each teammate gets the full shared setup after a one-time install. `Tencent` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/teamai-cli?style=flat-square)
 - [ZihangDong/toolknit-desktop](https://github.com/ZihangDong/toolknit-desktop) - Desktop toolbox bundling 75 local tools across PDF, image, audio/video, text, and AI processing in 12 categories, with a companion web app and a CLI/MCP interface. `JavaScript` ![Stars](https://img.shields.io/github/stars/ZihangDong/toolknit-desktop?style=flat-square)
 - [metasequoiaime/msime](https://github.com/metasequoiaime/msime) - Cross-platform Chinese input method (Pinyin and Shuangpin layouts) built on a single shared Rust engine across Android, iOS, macOS, Linux, Windows, and HarmonyOS. `Rust` ![Stars](https://img.shields.io/github/stars/metasequoiaime/msime?style=flat-square)
