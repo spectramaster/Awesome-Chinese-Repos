@@ -39,10 +39,10 @@ Yet many of these projects remain invisible to international developers because 
 ## Contents
 
 **Learning**
-- [Learning & Education](#-learning--education) *(19)*
+- [Learning & Education](#-learning--education) *(21)*
 
 **AI**
-- [AI & Machine Learning](#-ai--machine-learning) *(37)*
+- [AI & Machine Learning](#-ai--machine-learning) *(38)*
 - [AI Applications & Chatbots](#-ai-applications--chatbots) *(16)*
 
 **Systems & Frameworks**
