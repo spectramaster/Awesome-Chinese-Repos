@@ -39,7 +39,7 @@ Yet many of these projects remain invisible to international developers because 
 ## Contents
 
 **Learning**
-- [Learning & Education](#-learning--education) *(21)*
+- [Learning & Education](#-learning--education) *(22)*
 
 **AI**
 - [AI & Machine Learning](#-ai--machine-learning) *(38)*
@@ -58,7 +58,7 @@ Yet many of these projects remain invisible to international developers because 
 - [Content Management & Blogging](#-content-management--blogging) *(5)*
 - [DevOps & Monitoring](#-devops--monitoring) *(6)*
 - [Payments & Messaging Infra](#-payments--messaging-infra) *(7)*
-- [WeChat Ecosystem](#-wechat-ecosystem) *(19)*
+- [WeChat Ecosystem](#-wechat-ecosystem) *(21)*
 
 ---
 
@@ -87,6 +87,7 @@ _Comprehensive learning resources, interview preparation, and programming guides
 - [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - Interactive, gamified SQL tutorial website — learn SQL from zero to advanced through coding challenges. `TypeScript` ![Stars](https://img.shields.io/github/stars/liyupi/sql-mother?style=flat-square)
 - [youngyangyang04/llm-master](https://github.com/youngyangyang04/llm-master) - Full-stack LLM engineering curriculum covering prompt engineering, RAG, agents, fine-tuning (SFT/RLHF/DPO/LoRA), Transformer internals, and production deployment, with 150+ tutorials and interview prep. ![Stars](https://img.shields.io/github/stars/youngyangyang04/llm-master?style=flat-square)
 - [IAAR-Shanghai/Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory) - Continuously updated knowledge base on AI memory for LLMs and agents — curates 1,300+ papers and 100+ open-source projects on long-term/episodic/semantic memory, retrieval, and memory-native system design. ![Stars](https://img.shields.io/github/stars/IAAR-Shanghai/Awesome-AI-Memory?style=flat-square)
+- [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - Community-curated list of HarmonyOS resources — Huawei's distributed OS architecture, LiteOS internals, hardware/driver references, and developer tooling. `EN` ![Stars](https://img.shields.io/github/stars/Awesome-HarmonyOS/HarmonyOS?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
@@ -341,6 +342,8 @@ _Related: [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels
 - [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli) - Command-line tool for WeCom (Enterprise WeChat) covering messaging, email, documents, calendar, meetings, and contacts — built with Agent Skills support so both humans and AI agents can drive it from a terminal. `Rust` ![Stars](https://img.shields.io/github/stars/WecomTeam/wecom-cli?style=flat-square)
 - [Moonofweisheng/wot-design-uni](https://github.com/Moonofweisheng/wot-design-uni) - Vue 3 + TypeScript component library for uni-app with 70+ components, dark mode, internationalization, and custom theming — a modern cross-platform alternative to native Mini Program UI kits. `TypeScript` ![Stars](https://img.shields.io/github/stars/Moonofweisheng/wot-design-uni?style=flat-square)
 - [ArtisanCloud/PowerWeChat](https://github.com/ArtisanCloud/PowerWeChat) - WeChat SDK for Go covering mini programs, WeChat Pay, WeCom (enterprise WeChat), and official accounts behind one consistent API. `Go` ![Stars](https://img.shields.io/github/stars/ArtisanCloud/PowerWeChat?style=flat-square)
+- [eleme/morjs](https://github.com/eleme/morjs) - Extensible build framework from Eleme (Alibaba) that compiles a single WeChat or Alipay mini program source into Baidu, ByteDance, QQ, Kuaishou, Taobao, and DingTalk mini programs, plus web apps. `Eleme` `TypeScript` ![Stars](https://img.shields.io/github/stars/eleme/morjs?style=flat-square)
+- [jin-yufeng/mp-html](https://github.com/jin-yufeng/mp-html) - Rich-text component that renders and edits HTML inside WeChat, QQ, Baidu, Alipay, and ByteDance mini programs (and uni-app) — tables, video, SVG, and LaTeX support, since mini programs can't render raw HTML natively. `JavaScript` ![Stars](https://img.shields.io/github/stars/jin-yufeng/mp-html?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
