@@ -42,8 +42,8 @@ Yet many of these projects remain invisible to international developers because 
 - [Learning & Education](#-learning--education) *(22)*
 
 **AI**
-- [AI & Machine Learning](#-ai--machine-learning) *(38)*
-- [AI Applications & Chatbots](#-ai-applications--chatbots) *(16)*
+- [AI & Machine Learning](#-ai--machine-learning) *(39)*
+- [AI Applications & Chatbots](#-ai-applications--chatbots) *(17)*
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
@@ -133,6 +133,7 @@ _Large language models, NLP toolkits, OCR engines, and training frameworks from 
 - [baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2) - Open-source large language models (7B & 13B) with strong Chinese and multilingual capabilities. `Baichuan` `Python` ![Stars](https://img.shields.io/github/stars/baichuan-inc/Baichuan2?style=flat-square)
 - [Mininglamp-AI/Mano-P](https://github.com/Mininglamp-AI/Mano-P) - Open-source GUI-VLA agent for on-device desktop automation — ranks #1 on the specialized OSWorld benchmark (58.2%) and runs entirely locally on Apple M4 hardware, with no data leaving the device. `Mininglamp AI` `EN` ![Stars](https://img.shields.io/github/stars/Mininglamp-AI/Mano-P?style=flat-square)
 - [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) - Go framework for building production AI agent systems, built on Tencent's tRPC ecosystem — LLM agents, graph workflows, tool calling, session/memory state, and knowledge retrieval, with A2A, AG-UI, and MCP integration plus OpenTelemetry observability. `Tencent` `Go` `EN` ![Stars](https://img.shields.io/github/stars/trpc-group/trpc-agent-go?style=flat-square)
+- [DIYgod/pinky](https://github.com/DIYgod/pinky) - Native desktop app (Mac/Windows/Linux) that lets any MCP-capable AI agent operate a real iPhone or Android phone, with human-in-the-loop approval for risky actions, off-limits banking/password apps, and full session recordings. By the creator of RSSHub. `Go` `EN` ![Stars](https://img.shields.io/github/stars/DIYgod/pinky?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
@@ -156,6 +157,7 @@ _Ready-to-deploy AI application platforms and chat interfaces built by Chinese t
 - [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - Self-hosted, privacy-first AI assistant platform from Tencent — multi-user, multi-agent, with a web dashboard, CLI, and chat integrations for Feishu and Discord. `Tencent` `Python` `EN` ![Stars](https://img.shields.io/github/stars/TencentCloud/Octop?style=flat-square)
 - [koishijs/koishi](https://github.com/koishijs/koishi) - Extensible cross-platform chatbot framework with a web console, hot-reloading plugin development, and a marketplace of 3,000+ community plugins — connects bots to QQ, Discord, Telegram, and Feishu from one codebase. `TypeScript` ![Stars](https://img.shields.io/github/stars/koishijs/koishi?style=flat-square)
 - [ZJU-REAL/Easel](https://github.com/ZJU-REAL/Easel) - Open-source AI content workbench for social media creators — trend discovery, script/visual/video generation, and direct publishing across Xiaohongshu, Douyin, Bilibili, Zhihu, and WeChat, with persistent creator profiles. From Zhejiang University and Peking University research labs. `Python` ![Stars](https://img.shields.io/github/stars/ZJU-REAL/Easel?style=flat-square)
+- [wquguru/cicada](https://github.com/wquguru/cicada) - Live bilingual subtitles, simultaneous interpreting, and AI-structured meeting notes for any call or stream (Tencent Meeting, Feishu, DingTalk, Zoom, Teams, YouTube, and more) on Mac, Windows, Linux, and Android — with on-device speech recognition on Apple silicon. `Swift` `EN` ![Stars](https://img.shields.io/github/stars/wquguru/cicada?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
