@@ -48,7 +48,7 @@ Yet many of these projects remain invisible to international developers because 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
 - [Developer Tools & Libraries](#-developer-tools--libraries) *(25)*
-- [Web Scraping & Data Collection](#-web-scraping--data-collection) *(5)*
+- [Web Scraping & Data Collection](#-web-scraping--data-collection) *(6)*
 - [Backend Frameworks & Middleware](#-backend-frameworks--middleware) *(8)*
 
 **Platforms**
@@ -221,6 +221,7 @@ _Crawlers and automation tools for extracting data from Chinese (and global) pla
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - Self-hosted REST API for scraping and downloading watermark-free videos and metadata from Douyin and TikTok, with an MCP server and CLI. `Python` `EN` ![Stars](https://img.shields.io/github/stars/Evil0ctal/Douyin_TikTok_Download_API?style=flat-square)
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - Cross-platform desktop tool for downloading watermark-free video, audio, and images from WeChat Channels, Mini Programs, Douyin, Kuaishou, and Xiaohongshu. `Go` ![Stars](https://img.shields.io/github/stars/putyy/res-downloader?style=flat-square)
 - [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - Go MCP server giving AI assistants direct, operational access to Xiaohongshu (RedNote) — search posts, publish image/video content, and read or post comments, via both MCP tools and an HTTP API. `Go` ![Stars](https://img.shields.io/github/stars/xpzouying/xiaohongshu-mcp?style=flat-square)
+- [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - Self-hosted assistant that monitors WeChat official accounts and converts their articles into RSS feeds, Markdown, or PDF, with scheduled updates and webhook/API access for downstream automation. `Python` `EN` ![Stars](https://img.shields.io/github/stars/rachelos/we-mp-rss?style=flat-square)
 
 **[⬆ back to top](#contents)**
 
