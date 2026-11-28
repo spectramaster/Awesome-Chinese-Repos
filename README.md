@@ -43,7 +43,7 @@ Yet many of these projects remain invisible to international developers because 
 
 **AI**
 - [AI & Machine Learning](#-ai--machine-learning) *(39)*
-- [AI Applications & Chatbots](#-ai-applications--chatbots) *(17)*
+- [AI Applications & Chatbots](#-ai-applications--chatbots) *(18)*
 
 **Systems & Frameworks**
 - [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels) *(10)*
@@ -58,7 +58,7 @@ Yet many of these projects remain invisible to international developers because 
 - [Content Management & Blogging](#-content-management--blogging) *(5)*
 - [DevOps & Monitoring](#-devops--monitoring) *(6)*
 - [Payments & Messaging Infra](#-payments--messaging-infra) *(7)*
-- [WeChat Ecosystem](#-wechat-ecosystem) *(21)*
+- [WeChat Ecosystem](#-wechat-ecosystem) *(22)*
 
 ---
 
@@ -152,6 +152,7 @@ _Ready-to-deploy AI application platforms and chat interfaces built by Chinese t
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - Cross-platform AI chat client with no API key required — sign up and chat with GPT-5, Claude, Gemini, DeepSeek, and 100+ other models. Available on Web, iOS, macOS, Android, Linux, and Windows. `TypeScript` ![Stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=flat-square)
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - AI agent operations platform (formerly the LobeChat chat UI) — hire, schedule, and manage a team of AI agents with a knowledge base and multi-provider support. `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square)
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - Practical interactive interface for LLMs optimized for academic workflows — paper reading, polishing, translation, and writing, with function plugins and support for querying multiple models in parallel. `Python` ![Stars](https://img.shields.io/github/stars/binary-husky/gpt_academic?style=flat-square)
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - Self-hosted hot-topic tracker that aggregates trending lists from major Chinese platforms plus RSS feeds, then uses AI to filter, translate, and summarize them before pushing digests to WeChat, Feishu, DingTalk, Telegram, Slack, or email; also ships an MCP server for AI-assisted analysis. `TypeScript` ![Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square)
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Self-evolving personal AI agent harness with task planning, tools/skills, and memory — connects to WeChat, Feishu, DingTalk, and other chat channels; formerly the widely-used `chatgpt-on-wechat` bot framework. `Python` `EN` ![Stars](https://img.shields.io/github/stars/zhayujie/CowAgent?style=flat-square)
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Tencent's open-source LLM knowledge platform — combines RAG with citations, a multi-step agent, and a wiki over the same document knowledge bases, with MCP tool support and multi-workspace permissions. `Tencent` `Go` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/WeKnora?style=flat-square)
 - [labring/FastGPT](https://github.com/labring/FastGPT) - Knowledge-base platform for building RAG-based Q&A applications — document processing, dataset retrieval, and a visual workflow orchestration engine for AI applications. `TypeScript` ![Stars](https://img.shields.io/github/stars/labring/FastGPT?style=flat-square)
@@ -337,6 +338,7 @@ _Related: [Full-Stack Systems & Admin Panels](#-full-stack-systems--admin-panels
 - [binarywang/WxJava](https://github.com/binarywang/WxJava) - Comprehensive Java SDK for WeChat backend development — covers official accounts, mini programs, WeChat Pay, enterprise WeChat, video channels, and the open platform. `Java` ![Stars](https://img.shields.io/github/stars/binarywang/WxJava?style=flat-square)
 - [Tencent/weui](https://github.com/Tencent/weui) - Official UI component library from the WeChat design team — buttons, dialogs, toasts, and other widgets styled to match native WeChat mobile web and mini program interfaces. `Tencent` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/weui?style=flat-square)
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for building WeChat (and WhatsApp, WeCom, Lark) chatbots in as few as six lines of code, with bindings for JavaScript, Python, Go, and Java. `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/wechaty/wechaty?style=flat-square)
+- [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - Full-featured, long-maintained WeChat Mini Program e-commerce storefront with livestream-selling support. `JavaScript` ![Stars](https://img.shields.io/github/stars/EastWorld/wechat-app-mall?style=flat-square)
 - [linlinjava/litemall](https://github.com/linlinjava/litemall) - Full-stack mall with WeChat Mini Program storefront — great example of WeChat commerce integration. `Java` `Vue` *(Also in [Full-Stack Systems](#-full-stack-systems--admin-panels))* ![Stars](https://img.shields.io/github/stars/linlinjava/litemall?style=flat-square)
 - [youzan/vant-weapp](https://github.com/youzan/vant-weapp) - Lightweight, reliable UI component library for WeChat Mini Programs, ported from Youzan's popular Vant design system — 60+ ready-made components. `Youzan` `JavaScript` ![Stars](https://img.shields.io/github/stars/youzan/vant-weapp?style=flat-square)
 - [Tencent/vConsole](https://github.com/Tencent/vConsole) - Lightweight, framework-agnostic front-end debugging panel for mobile web pages — the official debugging tool bundled into WeChat Mini Programs, with log, network, element, and storage inspectors. `Tencent` `TypeScript` `EN` ![Stars](https://img.shields.io/github/stars/Tencent/vConsole?style=flat-square)
